@@ -1,0 +1,626 @@
+{
+	"value":"German Soil Type",
+	"displayText":"German Soil Type",
+	"text":"German Soil Type",
+	"collapsed":true,
+	"checked":false,
+	"children":[
+	   {
+		  "value":"Terrestrische Böden",
+		  "displayText":"Terrestrische Böden",
+		  "text":"Terrestrische Böden",
+		  "collapsed":true,
+		  "checked":false,
+		  "children":[
+			 {
+				"value":"O/C-Böden",
+				"displayText":"O/C-Böden",
+				"text":"O/C-Böden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Felshumusboden",
+					  "displayText":"Felshumusboden",
+					  "text":"Felshumusboden",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Skeletthumusboden",
+					  "displayText":"Skeletthumusboden",
+					  "text":"Skeletthumusboden",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Terrestrische Rohböden",
+				"displayText":"Terrestrische Rohböden",
+				"text":"Terrestrische Rohböden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Syrosem",
+					  "displayText":"Syrosem",
+					  "text":"Syrosem",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Lockersyrosem",
+					  "displayText":"Lockersyrosem",
+					  "text":"Lockersyrosem",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Ah/C-Böden außer Schwarzerden",
+				"displayText":"Ah/C-Böden außer Schwarzerden",
+				"text":"Ah/C-Böden außer Schwarzerden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Ranker",
+					  "displayText":"Ranker",
+					  "text":"Ranker",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Regosol",
+					  "displayText":"Regosol",
+					  "text":"Regosol",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Rendzina",
+					  "displayText":"Rendzina",
+					  "text":"Rendzina",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Pararendzina",
+					  "displayText":"Pararendzina",
+					  "text":"Pararendzina",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Schwarzerden",
+				"displayText":"Schwarzerden",
+				"text":"Schwarzerden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Tschernosem (Schwarzerde)",
+					  "displayText":"Tschernosem (Schwarzerde)",
+					  "text":"Tschernosem (Schwarzerde)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Kalktschernosem",
+					  "displayText":"Kalktschernosem",
+					  "text":"Kalktschernosem",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Pelosole",
+				"displayText":"Pelosole",
+				"text":"Pelosole",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Pelosol",
+					  "displayText":"Pelosol",
+					  "text":"Pelosol",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Braunerden",
+				"displayText":"Braunerden",
+				"text":"Braunerden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Braunerde",
+					  "displayText":"Braunerde",
+					  "text":"Braunerde",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Lessivés",
+				"displayText":"Lessivés",
+				"text":"Lessivés",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Parabraunerde",
+					  "displayText":"Parabraunerde",
+					  "text":"Parabraunerde",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Fahlerde",
+					  "displayText":"Fahlerde",
+					  "text":"Fahlerde",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Podsole",
+				"displayText":"Podsole",
+				"text":"Podsole",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Podsol",
+					  "displayText":"Podsol",
+					  "text":"Podsol",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Terrae calcis",
+				"displayText":"Terrae calcis",
+				"text":"Terrae calcis",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Terra fusca",
+					  "displayText":"Terra fusca",
+					  "text":"Terra fusca",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Terra rossa",
+					  "displayText":"Terra rossa",
+					  "text":"Terra rossa",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Fersiallitische und ferrallitische Paläoböden",
+				"displayText":"Fersiallitische und ferrallitische Paläoböden",
+				"text":"Fersiallitische und ferrallitische Paläoböden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Fersiallit",
+					  "displayText":"Fersiallit",
+					  "text":"Fersiallit",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Ferrallit",
+					  "displayText":"Ferrallit",
+					  "text":"Ferrallit",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Stauwasserböden (Staunässeböden)",
+				"displayText":"Stauwasserböden (Staunässeböden)",
+				"text":"Stauwasserböden (Staunässeböden)",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Pseudogley",
+					  "displayText":"Pseudogley",
+					  "text":"Pseudogley",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Haftpseudogley",
+					  "displayText":"Haftpseudogley",
+					  "text":"Haftpseudogley",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Stagnogley",
+					  "displayText":"Stagnogley",
+					  "text":"Stagnogley",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Reduktosole",
+				"displayText":"Reduktosole",
+				"text":"Reduktosole",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Reduktosol (Müllkippenboden)",
+					  "displayText":"Reduktosol (Müllkippenboden)",
+					  "text":"Reduktosol (Müllkippenboden)",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Terrestrische anthropogene Böden",
+				"displayText":"Terrestrische anthropogene Böden",
+				"text":"Terrestrische anthropogene Böden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Kolluvisol (Umlagerungsboden)",
+					  "displayText":"Kolluvisol (Umlagerungsboden)",
+					  "text":"Kolluvisol (Umlagerungsboden)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Plaggenesch (Plaggenboden)",
+					  "displayText":"Plaggenesch (Plaggenboden)",
+					  "text":"Plaggenesch (Plaggenboden)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Hortisol (Gartenboden)",
+					  "displayText":"Hortisol (Gartenboden)",
+					  "text":"Hortisol (Gartenboden)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Rigosol (Obst- und Weinbauboden)",
+					  "displayText":"Rigosol (Obst- und Weinbauboden)",
+					  "text":"Rigosol (Obst- und Weinbauboden)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Treposol (Tiefumbruchboden)",
+					  "displayText":"Treposol (Tiefumbruchboden)",
+					  "text":"Treposol (Tiefumbruchboden)",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 }
+		  ]
+	   },
+	   {
+		  "value":"Semiterrestrische Böden",
+		  "displayText":"Semiterrestrische Böden",
+		  "text":"Semiterrestrische Böden",
+		  "collapsed":true,
+		  "checked":false,
+		  "children":[
+			 {
+				"value":"Auenböden",
+				"displayText":"Auenböden",
+				"text":"Auenböden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Rambla (Auenlockersyrosem)",
+					  "displayText":"Rambla (Auenlockersyrosem)",
+					  "text":"Rambla (Auenlockersyrosem)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Paternia",
+					  "displayText":"Paternia",
+					  "text":"Paternia",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Kalkpaternia (Borowina)",
+					  "displayText":"Kalkpaternia (Borowina)",
+					  "text":"Kalkpaternia (Borowina)",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Tschernitza",
+					  "displayText":"Tschernitza",
+					  "text":"Tschernitza",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Vega (Braunauenboden)",
+					  "displayText":"Vega (Braunauenboden)",
+					  "text":"Vega (Braunauenboden)",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Gleye",
+				"displayText":"Gleye",
+				"text":"Gleye",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Gley",
+					  "displayText":"Gley",
+					  "text":"Gley",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Nassgley",
+					  "displayText":"Nassgley",
+					  "text":"Nassgley",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Anmoorgley",
+					  "displayText":"Anmoorgley",
+					  "text":"Anmoorgley",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Moorgley",
+					  "displayText":"Moorgley",
+					  "text":"Moorgley",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Marschen",
+				"displayText":"Marschen",
+				"text":"Marschen",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Rohmarsch",
+					  "displayText":"Rohmarsch",
+					  "text":"Rohmarsch",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Kalkmarsch",
+					  "displayText":"Kalkmarsch",
+					  "text":"Kalkmarsch",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Kleimarsch",
+					  "displayText":"Kleimarsch",
+					  "text":"Kleimarsch",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Haftnässemarsch",
+					  "displayText":"Haftnässemarsch",
+					  "text":"Haftnässemarsch",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Dwogmarsch",
+					  "displayText":"Dwogmarsch",
+					  "text":"Dwogmarsch",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Knickmarsch",
+					  "displayText":"Knickmarsch",
+					  "text":"Knickmarsch",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Organomarsch",
+					  "displayText":"Organomarsch",
+					  "text":"Organomarsch",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Strandböden",
+				"displayText":"Strandböden",
+				"text":"Strandböden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Strand",
+					  "displayText":"Strand",
+					  "text":"Strand",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 }
+		  ]
+	   },
+	   {
+		  "value":"Semisubhydrische und Subhydrische Böden",
+		  "displayText":"Semisubhydrische und Subhydrische Böden",
+		  "text":"Semisubhydrische und Subhydrische Böden",
+		  "collapsed":true,
+		  "checked":false,
+		  "children":[
+			 {
+				"value":"Semisubhydrische Böden",
+				"displayText":"Semisubhydrische Böden",
+				"text":"Semisubhydrische Böden",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Nassstrand",
+					  "displayText":"Nassstrand",
+					  "text":"Nassstrand",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Watt",
+					  "displayText":"Watt",
+					  "text":"Watt",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Subhydrische Böden (Unterwasserböden)",
+				"displayText":"Subhydrische Böden (Unterwasserböden)",
+				"text":"Subhydrische Böden (Unterwasserböden)",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Protopedon",
+					  "displayText":"Protopedon",
+					  "text":"Protopedon",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Gyttja",
+					  "displayText":"Gyttja",
+					  "text":"Gyttja",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Sapropel",
+					  "displayText":"Sapropel",
+					  "text":"Sapropel",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Dy",
+					  "displayText":"Dy",
+					  "text":"Dy",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 }
+		  ]
+	   },
+	   {
+		  "value":"Moore",
+		  "displayText":"Moore",
+		  "text":"Moore",
+		  "collapsed":true,
+		  "checked":false,
+		  "children":[
+			 {
+				"value":"Natürliche Moore",
+				"displayText":"Natürliche Moore",
+				"text":"Natürliche Moore",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Niedermoor",
+					  "displayText":"Niedermoor",
+					  "text":"Niedermoor",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Hochmoor",
+					  "displayText":"Hochmoor",
+					  "text":"Hochmoor",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 },
+			 {
+				"value":"Erd- und Mulmmoore",
+				"displayText":"Erd- und Mulmmoore",
+				"text":"Erd- und Mulmmoore",
+				"collapsed":true,
+				"checked":false,
+				"children":[
+				   {
+					  "value":"Erdniedermoor",
+					  "displayText":"Erdniedermoor",
+					  "text":"Erdniedermoor",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Mulmniedermoor",
+					  "displayText":"Mulmniedermoor",
+					  "text":"Mulmniedermoor",
+					  "collapsed":true,
+					  "checked":false
+				   },
+				   {
+					  "value":"Erdhochmoor",
+					  "displayText":"Erdhochmoor",
+					  "text":"Erdhochmoor",
+					  "collapsed":true,
+					  "checked":false
+				   }
+				]
+			 }
+		  ]
+	   }
+	]
+ }

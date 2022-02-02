@@ -1,0 +1,599 @@
+word,bonares_voc,lemma
+fertilization,fertilization,fertilization
+balanced fertilization,fertilization,balanced fertilization
+broadcast fertilization,fertilization,broadcast fertilization
+foliar fertilization,fertilization,foliar fertilization
+in vitro fertilization,fertilization,in vitro fertilization
+no fertilizer,no fertilizer,no fertilizer
+ammonia fertilizer,ammonia fertilizer,ammonia fertilizer
+ammonium nitrate fertilizer,ammonium nitrate fertilizer,ammonium nitrate fertilizer
+urea fertilizer,urea fertilizer,urea fertilizer
+calcium ammonium nitrate fertilizer,calcium ammonium nitrate fertilizer,calcium ammonium nitrate fertilizer
+superphosphate fertilizer,superphosphate fertilizer,superphosphate fertilizer
+phosphogypsum fertilizer,phosphogypsum fertilizer,phosphogypsum fertilizer
+triple superphosphate fertilizer,triple superphosphate fertilizer,triple superphosphate fertilizer
+double superphosphate fertilizer,double superphosphate fertilizer,double superphosphate fertilizer
+hyperphosphate fertilizer,hyperphosphate fertilizer,hyperphosphate fertilizer
+potassium chloride fertilizer,potassium chloride fertilizer,potassium chloride fertilizer
+potassium sulfate fertilizer,potassium sulfate fertilizer,potassium sulfate fertilizer
+magnesia-kainit fertilizer,magnesia-kainit fertilizer,magnesia - kainit fertilizer
+npk fertilizer,npk fertilizer,npk fertilizer
+NPK fertilizers,npk fertilizer,NPK fertilizer
+monoammonium phosphate fertilizer,monoammonium phosphate fertilizer,monoammonium phosphate fertilizer
+diammonium phosphate fertilizer,diammonium phosphate fertilizer,diammonium phosphate fertilizer
+amendment,amendment,amendment
+liming materials,amendment,liming material
+calcitic lime (amendment),amendment,calcitic lime ( amendment )
+dolomitic lime (amendment),amendment,dolomitic lime ( amendment )
+inorganic amendments,amendment,inorganic amendment
+lime (amendment),amendment,lime ( amendment )
+organic amendments,amendment,organic amendment
+soil amendments,amendment,soil amendment
+no amendment,no amendment,no amendment
+no inorganic amendment,no inorganic amendment,no inorganic amendment
+biochar,biochar,biochar
+no organic amendment,no organic amendment,no organic amendment
+cattle manure (amendment),cattle manure (amendment),cattle manure ( amendment )
+composted wheat residues (amendment),composted wheat residues (amendment),composted wheat residue ( amendment )
+solid waste compost (amendment),solid waste compost (amendment),solid waste compost ( amendment )
+brassica residues,brassica residues,brassica residue
+wheat residues,wheat residues,wheat residue
+mulching,mulching,mulch
+mulches,mulching,mulch
+stubble mulching,mulching,stubble mulching
+no mulch,no mulch,no mulch
+bark mulch,bark mulch,bark mulch
+bark mulches,bark mulch,bark mulch
+straw mulch,straw mulch,straw mulch
+straw mulches,straw mulch,straw mulch
+plastic mulch,plastic mulch,plastic mulch
+plastic mulches,plastic mulch,plastic mulch
+tillage,tillage,tillage
+conservation tillage,tillage,conservation tillage
+conventional tillage,tillage,conventional tillage
+deep tillage,tillage,deep tillage
+minimum tillage,tillage,minimum tillage
+stubble tillage,tillage,stubble tillage
+zero tillage,tillage,zero tillage
+primary tillage,tillage,primary tillage
+ridge tillage,tillage,ridge tillage
+ripping (tillage),tillage,rip ( tillage )
+secondary tillage,tillage,secondary tillage
+strip tillage,tillage,strip tillage
+surface cultivation,tillage,surface cultivation
+ploughing depth,tillage,plough depth
+tillage equipment,tillage,tillage equipment
+tillage erosion,tillage,tillage erosion
+puddling,tillage,puddle
+conventional tillage,conventional tillage,conventional tillage
+zero tillage,zero tillage,zero tillage
+minimum tillage,minimum tillage,minimum tillage
+ridge tillage,ridge tillage,ridge tillage
+chisel plowing,chisel plowing,chisel plow
+disc plowing,disc plowing,disc plow
+moldboard plowing,moldboard plowing,moldboard plow
+disc harrowing,disc harrowing,disc harrow
+shallow tillage,shallow tillage,shallow tillage
+deep tillage,deep tillage,deep tillage
+residues,residues,residue
+residual effects,residues,residual effect
+antibiotic residues,residues,antibiotic residue
+crop residues,residues,crop residue
+drug residues,residues,drug residue
+logging wastes,residues,log waste
+organic residues,residues,organic residue
+pesticide residues,residues,pesticide residue
+veterinary drug residues,residues,veterinary drug residue
+wood residues,residues,wood residue
+no residue removal,no residue removal,no residue removal
+partial residue removal,partial residue removal,partial residue removal
+full residue removal,full residue removal,full residue removal
+no residue incorporation,no residue incorporation,no residue incorporation
+on-site residue incorporation,on-site residue incorporation,on - site residue incorporation
+off-site residue incorporation,off-site residue incorporation,off - site residue incorporation
+irrigation,irrigation,irrigation
+automatic irrigation,irrigation,automatic irrigation
+basin irrigation,irrigation,basin irrigation
+border irrigation,irrigation,border irrigation
+capillary irrigation,irrigation,capillary irrigation
+centre pivot irrigation,irrigation,centre pivot irrigation
+continuous irrigation,irrigation,continuous irrigation
+deficit irrigation,irrigation,deficit irrigation
+demand irrigation,irrigation,demand irrigation
+trickle irrigation,irrigation,trickle irrigation
+emitters (irrigation),irrigation,emitter ( irrigation )
+fertigation,irrigation,fertigation
+flood irrigation,irrigation,flood irrigation
+furrow irrigation,irrigation,furrow irrigation
+surface irrigation,irrigation,surface irrigation
+irrigation canals,irrigation,irrigation canal
+irrigation systems,irrigation,irrigation system
+irrigation equipment,irrigation,irrigation equipment
+irrigation methods,irrigation,irrigation method
+irrigation pipes,irrigation,irrigation pipe
+irrigation rates,irrigation,irrigation rate
+irrigation scheduling,irrigation,irrigation scheduling
+irrigation schemes,irrigation,irrigation scheme
+irrigation sources,irrigation,irrigation source
+irrigation water,irrigation,irrigation water
+localized irrigation,irrigation,localized irrigation
+mist irrigation,irrigation,mist irrigation
+overhead irrigation,irrigation,overhead irrigation
+rotation irrigation,irrigation,rotation irrigation
+runoff irrigation,irrigation,runoff irrigation
+sprinkler irrigation,irrigation,sprinkler irrigation
+subsurface irrigation,irrigation,subsurface irrigation
+supplemental irrigation,irrigation,supplemental irrigation
+wastewater irrigation,irrigation,wastewater irrigation
+no irrigation,no irrigation,no irrigation
+drip irrigation,drip irrigation,drip irrigation
+trickle irrigation,drip irrigation,trickle irrigation
+flood irrigation,flood irrigation,flood irrigation
+center pivot irrigation ,center pivot irrigation ,center pivot irrigation
+lateral move irrigation,lateral move irrigation,lateral move irrigation
+solid-set sprinkler irrigation,solid-set sprinkler irrigation,solid - set sprinkler irrigation
+hand move sprinkler irrigation,hand move sprinkler irrigation,hand move sprinkler irrigation
+traveling gun sprinkler irrigation,traveling gun sprinkler irrigation,travel gun sprinkler irrigation
+sowing,sowing,sow
+broadcast sowing,sowing,broadcast sow
+direct sowing,sowing,direct sowing
+oversowing,sowing,oversowe
+sowing date,sowing,sow date
+sowing methods,sowing,sow method
+resowing,sowing,resowe
+sowing depth,sowing,sow depth
+spacing,sowing,space
+sowing equipment,sowing,sow equipment
+sowing rates,sowing,sowing rate
+undersowing,sowing,undersowing
+broadcast sowing,broadcast sowing,broadcast sow
+pest control,pest control,pest control
+bagging (pest control),pest control,bagging ( pest control )
+biological pest control,pest control,biological pest control
+biological control,pest control,biological control
+chemical pest control,pest control,chemical pest control
+cultural pest control,pest control,cultural pest control
+integrated pest management,pest control,integrate pest management
+netting (pest control),pest control,net ( pest control )
+postharvest control,pest control,postharv control
+pest control baits,pest control,pest control bait
+pest control equipment,pest control,pest control equipment
+stored products pest control,pest control,store product pest control
+thermal control,pest control,thermal control
+conventional pest management,conventional pest management,conventional pest management
+integrated pest management,integrated pest management,integrate pest management
+organic pest management,organic pest management,organic pest management
+no pest control,no pest control,no pest control
+bactericide,bactericide,bactericide
+bactericides,bactericide,bactericide
+fungicide,fungicide,fungicide
+copper fungicides,fungicide,copper fungicide
+fungicide selectivity,fungicide,fungicide selectivity
+fungicides,fungicide,fungicide
+inorganic mercury fungicides,fungicide,inorganic mercury fungicide
+mercury fungicides,fungicide,mercury fungicide
+organomercury fungicides,fungicide,organomercury fungicide
+resistance to fungicides,fungicide,resistance to fungicide
+herbicide,herbicide,herbicide
+amide herbicides,herbicide,amide herbicide
+anilide herbicides,herbicide,anilide herbicide
+aromatic acid herbicides,herbicide,aromatic acid herbicide
+aryloxyphenoxypropionic acid herbicides,herbicide,aryloxyphenoxypropionic acid herbicide
+benzoic acid herbicides,herbicide,benzoic acid herbicide
+benzoylcyclohexanedione herbicides,herbicide,benzoylcyclohexanedione herbicide
+cyclohexene oxime herbicides,herbicide,cyclohexene oxime herbicide
+cyclopropylisoxazole herbicides,herbicide,cyclopropylisoxazole herbicide
+dinitroaniline herbicides,herbicide,dinitroaniline herbicide
+diphenyl ether herbicides,herbicide,diphenyl ether herbicide
+herbicide resistance,herbicide,herbicide resistance
+herbicide safeners,herbicide,herbicide safener
+herbicide selectivity,herbicide,herbicide selectivity
+herbicides,herbicide,herbicide
+imidazolinone herbicides,herbicide,imidazolinone herbicide
+nitrile herbicides,herbicide,nitrile herbicide
+nitrophenyl ether herbicides,herbicide,nitrophenyl ether herbicide
+phenoxy acid herbicides,herbicide,phenoxy acid herbicide
+phenoxy herbicides,herbicide,phenoxy herbicide
+phenoxypropionic herbicides,herbicide,phenoxypropionic herbicide
+phenyl pyrazole herbicides,herbicide,phenyl pyrazole herbicide
+picolinic acid herbicides,herbicide,picolinic acid herbicide
+pyrazole herbicides,herbicide,pyrazole herbicide
+pyridine herbicides,herbicide,pyridine herbicide
+pyrimidinyl sulfonylurea herbicides,herbicide,pyrimidinyl sulfonylurea herbicide
+pyrimidinyloxybenzoic acid herbicides,herbicide,pyrimidinyloxybenzoic acid herbicide
+quaternary ammonium herbicides,herbicide,quaternary ammonium herbicide
+quinolinecarboxylic acid herbicides,herbicide,quinolinecarboxylic acid herbicide
+selective herbicides,herbicide,selective herbicide
+sulfonanilide herbicides,herbicide,sulfonanilide herbicide
+sulfonylurea herbicides,herbicide,sulfonylurea herbicide
+thiocarbamate herbicides,herbicide,thiocarbamate herbicide
+triazinylsulfonylurea herbicides,herbicide,triazinylsulfonylurea herbicide
+triazolone herbicides,herbicide,triazolone herbicide
+triazolopyrimidine herbicides,herbicide,triazolopyrimidine herbicide
+urea herbicides,herbicide,urea herbicide
+insecticide,insecticide,insecticide
+bacterial insecticides,insecticide,bacterial insecticide
+biological insecticides,insecticide,biological insecticide
+botanical insecticides,insecticide,botanical insecticide
+cyclodiene insecticides,insecticide,cyclodiene insecticide
+rotenone,insecticide,rotenone
+diamide insecticides,insecticide,diamide insecticide
+fluorine insecticides,insecticide,fluorine insecticide
+formamidine insecticides,insecticide,formamidine insecticide
+fumigant insecticides,insecticide,fumigant insecticide
+pesticide crops,insecticide,pesticide crop
+insecticide resistance,insecticide,insecticide resistance
+insecticide selectivity,insecticide,insecticide selectivity
+insecticides,insecticide,insecticide
+microbial insecticides,insecticide,microbial insecticide
+neonicotinoid insecticides,insecticide,neonicotinoid insecticide
+organochlorine insecticides,insecticide,organochlorine insecticide
+organophosphorus insecticides,insecticide,organophosphorus insecticide
+organothiophosphate insecticides,insecticide,organothiophosphate insecticide
+oxadiazine insecticides,insecticide,oxadiazine insecticide
+pyrazole insecticides,insecticide,pyrazole insecticide
+pyrethroid insecticides,insecticide,pyrethroid insecticide
+pyrethrins,insecticide,pyrethrin
+spinosyn insecticides,insecticide,spinosyn insecticide
+tetramic acid insecticides,insecticide,tetramic acid insecticide
+tetronic acid insecticides,insecticide,tetronic acid insecticide
+miticide,miticide,miticide
+acaricides,miticide,acaricide
+termiticides,miticide,termiticide
+molluscicide,molluscicide,molluscicide
+molluscicides,molluscicide,molluscicide
+nematicide,nematicide,nematicide
+nematicides,nematicide,nematicide
+resistance to nematicides,nematicide,resistance to nematicide
+virucide,virucide,virucide
+antiviral agents,virucide,antiviral agent
+grazing management,grazing management,graze management
+grazing systems,grazing management,grazing system
+no grazing,no grazing,no grazing
+continuous grazing,continuous grazing,continuous grazing
+rotational grazing,rotational grazing,rotational grazing
+intensive rotational grazing,intensive rotational grazing,intensive rotational grazing
+strip grazing,strip grazing,strip grazing
+crops,crops,crop
+feed crops,crops,feed crop
+Anisarchus macrops,crops,Anisarchus macrop
+Apristurus microps,crops,Apristurus microp
+essential oil crops,crops,essential oil crop
+autochthonous crops,crops,autochthonous crop
+Bathygadus macrops,crops,Bathygadus macrop
+Bathymicrops brevianalis,crops,bathymicrop brevianalis
+berry crops,crops,berry crop
+beverage crops,crops,beverage crop
+cole crops,crops,cole crop
+calabash crops,crops,calabash crop
+Callochromis macrops,crops,Callochromis macrop
+cash crops,crops,cash crop
+catch crops,crops,catch crop
+Caulolatilus microps,crops,caulolatilus microp
+cereal crops,crops,cereal crop
+companion crops,crops,companion crop
+Corvula macrops,crops,Corvula macrop
+Cottunculus microps,crops,cottunculus microp
+cover plants,crops,cover plant
+mowing,crops,mow
+Dasyatis microps,crops,Dasyatis microp
+fuel crops,crops,fuel crop
+fibre crops,crops,fibre crop
+field crops,crops,field crop
+culinary herbs,crops,culinary herb
+spice crops,crops,spice crop
+food crops,crops,food crop
+fruit crops,crops,fruit crop
+grain crops,crops,grain crop
+greenhouse crops,crops,greenhouse crop
+herbage crops,crops,herbage crop
+Hippoglossina macrops,crops,Hippoglossina macrop
+industrial crops,crops,industrial crop
+pesticide crops,crops,pesticide crop
+Muraenolepis microps,crops,muraenolepis microp
+Nebris microps,crops,Nebris microp
+postmortem examination,crops,postmortem examination
+nut crops,crops,nut crop
+oil crops,crops,oil crop
+Pareiodon microps,crops,Pareiodon microp
+perennials,crops,perennial
+plantation crops,crops,plantation crop
+prohibited crops,crops,prohibit crop
+Epinephelus,crops,epinephelus
+grain legumes,crops,grain legume
+root crops,crops,root crop
+rootstock crops,crops,rootstock crop
+rubber crops,crops,rubber crop
+salad crops,crops,salad crop
+seed crops,crops,seed crop
+Sinibrama macrops,crops,Sinibrama macrop
+spring crops,crops,spring crop
+starch crops,crops,starch crop
+Stellifer microps,crops,stellifer microp
+stimulant crops,crops,stimulant crop
+structural crops,crops,structural crop
+sugar crops,crops,sugar crop
+summer catch crops,crops,summer catch crop
+trap crops,crops,trap crop
+tree crops,crops,tree crop
+tropical crops,crops,tropical crop
+upland crops,crops,upland crop
+vegetable crops,crops,vegetable crop
+winter catch crops,crops,winter catch crop
+winter crops,crops,winter crop
+cover crop,cover crop,cover crop
+cover plants,cover crop,cover plant
+no cover crop,no cover crop,no cover crop
+catch crop,catch crop,catch crop
+catch cropping,catch crop,catch cropping
+catch crops,catch crop,catch crop
+summer catch crops,catch crop,summer catch crop
+winter catch crops,catch crop,winter catch crop
+no catch crop,no catch crop,no catch crop
+monoculture,monoculture,monoculture
+monoculture (aquaculture),monoculture,monoculture ( aquaculture )
+crop rotation,crop rotation,crop rotation
+intercropping,intercropping,intercrop
+alley cropping,intercropping,alley crop
+alley cropping,alley cropping,alley crop
+hedgerows / shelterbelts,hedgerows / shelterbelts,hedgerow / shelterbelt
+silvopasture,silvopasture,silvopasture
+silvopastoral systems,silvopasture,silvopastoral system
+spring barley,spring barley,spring barley
+winter barley,winter barley,winter barley
+coffee plant/coffea arabica,coffee plant/coffea arabica,coffee plant / coffea arabica
+coffee plant/coffea canephora,coffee plant/coffea canephora,coffee plant / coffea canephora
+mountain currant/ribes alpinum,mountain currant/ribes alpinum,mountain currant / ribe alpinum
+northern black currant/ribes hudsonianum,northern black currant/ribes hudsonianum,northern black currant / ribe hudsonianum
+skunk currant/ribes glandulosum,skunk currant/ribes glandulosum,skunk currant / ribe glandulosum
+wax currant/ribes cereum,wax currant/ribes cereum,wax currant / ribe cereum
+blackcurrant/ribes nigrum,blackcurrant/ribes nigrum,blackcurrant / ribe nigrum
+golden currant/ribes aureum,golden currant/ribes aureum,golden currant / ribe aureum
+alpine prickly currant/ribes montigenum,alpine prickly currant/ribes montigenum,alpine prickly currant / ribe montigenum
+northern redurrant/ribes triste,northern redurrant/ribes triste,northern redurrant / ribe triste
+flowering currant/ribes sanguineum,flowering currant/ribes sanguineum,flower currant / ribe sanguineum
+redcurrant/ribes rubrum,redcurrant/ribes rubrum,redcurrant / ribe rubrum
+sierra currant/ribes nevadense,sierra currant/ribes nevadense,sierra currant / ribe nevadense
+wild gooseberry/ribes hirtellum,wild gooseberry/ribes hirtellum,wild gooseberry / ribe hirtellum
+ribes divaricatum,ribes divaricatum,ribe divaricatum
+Ribes divaricatum,ribes divaricatum,ribe divaricatum
+canadian gooseberry/ribes oxyacanthoides,canadian gooseberry/ribes oxyacanthoides,canadian gooseberry / ribe oxyacanthoide
+gummy gooseberry/ribes lobbii,gummy gooseberry/ribes lobbii,gummy gooseberry / ribe lobbii
+black swamp gooseberry/ribes lacustre,black swamp gooseberry/ribes lacustre,black swamp gooseberry / ribe lacustre
+european gooseberry/ribes uva-crispa,european gooseberry/ribes uva-crispa,european gooseberry / ribe uva - crispa
+fuchsia-flowered gooseberry/ribes speciosum,fuchsia-flowered gooseberry/ribes speciosum,fuchsia - flower gooseberry / ribe speciosum
+whitestem gooseberry/ribes inerme,whitestem gooseberry/ribes inerme,whitestem gooseberry / ribe inerme
+common guava/psidium guajava,common guava/psidium guajava,common guava / psidium guajava
+pineapple guava/acca sellowiana,pineapple guava/acca sellowiana,pineapple guava / acca sellowiana
+cattley guava/psidium cattleyanum,cattley guava/psidium cattleyanum,cattley guava / psidium cattleyanum
+costa rican guava/psidium friedrichsthalianum,costa rican guava/psidium friedrichsthalianum,costa rican guava / psidium friedrichsthalianum
+brazilian guava/psidium guineense,brazilian guava/psidium guineense,brazilian guava / psidium guineense
+purple guava/psidium rufum,purple guava/psidium rufum,purple guava / psidium rufum
+chilean guava/ugni molinae,chilean guava/ugni molinae,chilean guava / ugni molinae
+white jute/corchorus capsularis,white jute/corchorus capsularis,white jute / corchorus capsularis
+tossa jute/corchorus olitorius,tossa jute/corchorus olitorius,tossa jute / corchorus olitorius
+adzuki bean/vigna angularis,adzuki bean/vigna angularis,adzuki bean / vigna angularis
+alfalfa/lucerne/medicago sativa,alfalfa/lucerne/medicago sativa,alfalfa / lucerne / medicago sativa
+bambara bean/vigna subterranea,bambara bean/vigna subterranea,bambara bean / vigna subterranea
+broad bean/faba bean/vicia faba var. major,broad bean/faba bean/vicia faba var. major,broad bean / faba bean / vicia faba var . major
+carob/ceratonia siliqua,carob/ceratonia siliqua,carob / ceratonia siliqua
+chickpea/cicer arietinum,chickpea/cicer arietinum,chickpea / cicer arietinum
+clover/trifolium sp.,clover/trifolium sp.,clover / trifolium sp .
+common bean/phaseolus vulgaris,common bean/phaseolus vulgaris,common bean / phaseolus vulgaris
+cowpea/vigna unguiculata,cowpea/vigna unguiculata,cowpea / vigna unguiculata
+field bean/vicia faba var. minor,field bean/vicia faba var. minor,field bean / vicia faba var . minor
+groundnut/peanut/arachis hypogaea,groundnut/peanut/arachis hypogaea,groundnut / peanut / arachis hypogaea
+guar bean/cyamopsis tetragonoloba,guar bean/cyamopsis tetragonoloba,guar bean / cyamopsis tetragonoloba
+horse bean/vicia faba var. equina,horse bean/vicia faba var. equina,horse bean / vicia faba var . equina
+hyacinth bean/lablab purpureus,hyacinth bean/lablab purpureus,hyacinth bean / lablab purpureus
+indian pea/lathyrus sativus,indian pea/lathyrus sativus,indian pea / lathyrus sativus
+jack bean/canavalia ensiformis,jack bean/canavalia ensiformis,jack bean / canavalia ensiformis
+lentil/lens culinaris,lentil/lens culinaris,lentil / lens culinaris
+lima bean/phaseolus lunatus,lima bean/phaseolus lunatus,lima bean / phaseolus lunatus
+lupin/lupinus sp.,lupin/lupinus sp.,lupin / lupinus sp .
+lupini bean/lupinus albus,lupini bean/lupinus albus,lupini bean / lupinus albus
+mesquite/prosopis sp.,mesquite/prosopis sp.,mesquite / prosopis sp .
+moth bean/vigna aconitifolia,moth bean/vigna aconitifolia,moth bean / vigna aconitifolia
+mung bean/vigna radiata,mung bean/vigna radiata,mung bean / vigna radiata
+pea/pisum sativum,pea/pisum sativum,pea / pisum sativum
+pigeon pea/cajanus cajan,pigeon pea/cajanus cajan,pigeon pea / cajanus cajan
+rice bean/vigna umbellata,rice bean/vigna umbellata,rice bean / vigna umbellata
+runner bean/phaseolus coccineus,runner bean/phaseolus coccineus,runner bean / phaseolus coccineus
+scimitar bean/canavalia gladiata,scimitar bean/canavalia gladiata,scimitar bean / canavalia gladiata
+soybean/glycine max,soybean/glycine max,soybean / glycine max
+tamarind/tamarindus indica,tamarind/tamarindus indica,tamarind / tamarindu indica
+tepary bean/phaseolus acutifolius,tepary bean/phaseolus acutifolius,tepary bean / phaseolus acutifolius
+urad/mungo bean/vigna mungo,urad/mungo bean/vigna mungo,urad / mungo bean / vigna mungo
+velvet bean/mucuna pruriens,velvet bean/mucuna pruriens,velvet bean / mucuna prurien
+vetch/vicia sp.,vetch/vicia sp.,vetch / vicia sp .
+winged bean/psophocarpus tetragonolobus,winged bean/psophocarpus tetragonolobus,wing bean / psophocarpus tetragonolobus
+yam bean/pachyrhizus erosus,yam bean/pachyrhizus erosus,yam bean / pachyrhizus erosus
+kaffir lime/citrus hystix,kaffir lime/citrus hystix,kaffir lime / citrus hystix
+key lime/citrus ã— aurantiifolia,key lime/citrus ã— aurantiifolia,key lime / citrus ã — aurantiifolia
+persian lime/citrus ã— latifolia,persian lime/citrus ã— latifolia,persian lime / citrus ã — latifolia
+winter melon/benincasa hispida,winter melon/benincasa hispida,winter melon / benincasa hispida
+egusi/citrullus lanatus,egusi/citrullus lanatus,egusi / citrullus lanatus
+watermelon/citrullus lanatu,watermelon/citrullus lanatu,watermelon / citrullus lanatu
+horned melon/cucumis metuliferus,horned melon/cucumis metuliferus,horn melon / cucumis metuliferus
+muskmelon/cucumis melo,muskmelon/cucumis melo,muskmelon / cucumis melo
+adlay millet/job's tears/coix lacryma-jobi,adlay millet/job's tears/coix lacryma-jobi,adlay millet / job 's tear / coix lacryma - jobi
+barnyard millet/japanese millet/echinochloa sp.,barnyard millet/japanese millet/echinochloa sp.,barnyard millet / japanese millet / echinochloa sp .
+black fonio/digitaria iburua,black fonio/digitaria iburua,black fonio / digitaria iburua
+browntop millet/urochloa ramosa,browntop millet/urochloa ramosa,browntop millet / urochloa ramosa
+common millet/proso millet/panicum miliaceum,common millet/proso millet/panicum miliaceum,common millet / proso millet / panicum miliaceum
+finger millet/ragi/eleusine coracana,finger millet/ragi/eleusine coracana,finger millet / ragi / eleusine coracana
+foxtail millet/setaria italica,foxtail millet/setaria italica,foxtail millet / setaria italica
+guinea millet/brachiaria deflexa,guinea millet/brachiaria deflexa,guinea millet / brachiaria deflexa
+kodo millet/paspalum scrobiculatum,kodo millet/paspalum scrobiculatum,kodo millet / paspalum scrobiculatum
+little millet/panicum sumatrense,little millet/panicum sumatrense,little millet / panicum sumatrense
+pearl millet/sajjey/pennisetum glaucum,pearl millet/sajjey/pennisetum glaucum,pearl millet / sajjey / pennisetum glaucum
+polish millet/digitaria sanguinalis,polish millet/digitaria sanguinalis,polish millet / digitaria sanguinalis
+raishan/digitaria compacta,raishan/digitaria compacta,raishan / digitaria compacta
+sorghum/great millet/sorghum bicolor,sorghum/great millet/sorghum bicolor,sorghum / great millet / sorghum bicolor
+teff/eragrostis tef,teff/eragrostis tef,teff / eragrostis tef
+white fonio/digitaria exilis,white fonio/digitaria exilis,white fonio / digitaria exilis
+white mulberry/morus alba,white mulberry/morus alba,white mulberry / morus alba
+chinese mulberry/morus australis,chinese mulberry/morus australis,chinese mulberry / morus australis
+morus cathayana,morus cathayana,morus cathayana
+morus indica,morus indica,morus indica
+Morus indica,morus indica,Morus indica
+morus insignis,morus insignis,morus insigni
+morus japonica,morus japonica,morus japonica
+morus liboensis,morus liboensis,morus liboensis
+long mulberry/morus macroura,long mulberry/morus macroura,long mulberry / morus macroura
+african mulberry/morus mesozygia,african mulberry/morus mesozygia,african mulberry / morus mesozygia
+morus mongolica,morus mongolica,morus mongolica
+texas mulberry/morus celtidifolia,texas mulberry/morus celtidifolia,texas mulberry / morus celtidifolia
+black mulberry/morus nigra,black mulberry/morus nigra,black mulberry / morus nigra
+morus notabilis,morus notabilis,morus notabilis
+red mulberry/morus rubra,red mulberry/morus rubra,red mulberry / morus rubra
+morus serrata,morus serrata,morus serrata
+morus trilobata,morus trilobata,morus trilobata
+morus wittiorum,morus wittiorum,morus wittiorum
+black mustard/brassica nigra,black mustard/brassica nigra,black mustard / brassica nigra
+mustard cabbage/brown indian mustard/brassica juncea,mustard cabbage/brown indian mustard/brassica juncea,mustard cabbage / brown indian mustard / brassica juncea
+white mustard/yellow mustard/sinapis alba,white mustard/yellow mustard/sinapis alba,white mustard / yellow mustard / sinapis alba
+date-plum/diospyros lotus,date-plum/diospyros lotus,date - plum / diospyros lotus
+american persimmon/diospyros virginiana ,american persimmon/diospyros virginiana ,american persimmon / diospyro virginiana
+asian persimmon/diospyros kaki,asian persimmon/diospyros kaki,asian persimmon / diospyro kaki
+black sapote/diospyros nigra,black sapote/diospyros nigra,black sapote / diospyro nigra
+mabolo/diospyros discolor,mabolo/diospyros discolor,mabolo / diospyro discolor
+indian persimmon/diospyros peregrina,indian persimmon/diospyros peregrina,indian persimmon / diospyro peregrina
+texas persimmon/diospyros texana,texas persimmon/diospyros texana,texas persimmon / diospyro texana
+damson plum/prunus domestica subsp. insititia,damson plum/prunus domestica subsp. insititia,damson plum / prunus domestica subsp . insititia
+gage/prunus domestica subsp. italica,gage/prunus domestica subsp. italica,gage / prunus domestica subsp . italica
+mirabelle plum/prunus domestica subsp. syriaca,mirabelle plum/prunus domestica subsp. syriaca,mirabelle plum / prunus domestica subsp . syriaca
+victoria plum/prunus domestica subsp. intermedia,victoria plum/prunus domestica subsp. intermedia,victoria plum / prunus domestica subsp . intermedia
+black radish/raphanus sativus var. niger,black radish/raphanus sativus var. niger,black radish / raphanus sativus var . niger
+daikon/white radish/raphanus raphanistrum subsp. sativus,daikon/white radish/raphanus raphanistrum subsp. sativus,daikon / white radish / raphanus raphanistrum subsp . sativus
+green radish/raphanus sativus var. caudatus,green radish/raphanus sativus var. caudatus,green radish / raphanus sativus var . caudatus
+oilseed radish/raphanus sativus var. oleiformis,oilseed radish/raphanus sativus var. oleiformis,oilseed radish / raphanus sativus var . oleiformis
+red radish/raphanus raphanistrum subsp. sativus,red radish/raphanus raphanistrum subsp. sativus,red radish / raphanus raphanistrum subsp . sativus
+wild radish/raphanus sativus var. raphanistroides,wild radish/raphanus sativus var. raphanistroides,wild radish / raphanus sativus var . raphanistroide
+asian raspberry/rubus crataegifolius,asian raspberry/rubus crataegifolius,asian raspberry / rubus crataegifolius
+tasmanian alpine raspberry/rubus gunnianus,tasmanian alpine raspberry/rubus gunnianus,tasmanian alpine raspberry / rubus gunnianus
+european red raspberry/rubus idaeus,european red raspberry/rubus idaeus,european red raspberry / rubus idaeus
+whitebark raspberry/rubus leucodermis,whitebark raspberry/rubus leucodermis,whitebark raspberry / rubus leucodermis
+black raspberry/rubus occidentalis,black raspberry/rubus occidentalis,black raspberry / rubus occidentali
+australian native raspberry/rubus parvifolius,australian native raspberry/rubus parvifolius,australian native raspberry / rubus parvifolius
+wine raspberry/rubus phoenicolasius,wine raspberry/rubus phoenicolasius,wine raspberry / rubus phoenicolasius
+mauritius raspberry/rubus rosifolius,mauritius raspberry/rubus rosifolius,mauritius raspberry / rubus rosifolius
+american red raspberry/rubus strigosus,american red raspberry/rubus strigosus,american red raspberry / rubus strigosus
+yellow himalayan raspberry/rubus ellipticus,yellow himalayan raspberry/rubus ellipticus,yellow himalayan raspberry / rubus ellipticus
+boulder raspberry/rubus deliciosus,boulder raspberry/rubus deliciosus,boulder raspberry / rubus deliciosus
+flowering raspberry/rubus odoratus,flowering raspberry/rubus odoratus,flower raspberry / rubus odoratus
+snow raspberry/rubus nivalis,snow raspberry/rubus nivalis,snow raspberry / rubus nivali
+arctic raspberry/rubus arcticus,arctic raspberry/rubus arcticus,arctic raspberry / rubus arcticus
+molucca raspberry/rubus sieboldii,molucca raspberry/rubus sieboldii,molucca raspberry / rubus sieboldii
+african rice/oryza glaberrima,african rice/oryza glaberrima,african rice / oryza glaberrima
+asian rice/oryza sativa,asian rice/oryza sativa,asian rice / oryza sativa
+congo rubber/landolphia owariensis,congo rubber/landolphia owariensis,congo rubber / landolphia owariensis
+amazonian rubber tree/hevea brasiliensis,amazonian rubber tree/hevea brasiliensis,amazonian rubber tree / hevea brasiliensis
+rubber fig/ficus elastica,rubber fig/ficus elastica,rubber fig / ficus elastica
+panama rubber tree/castilla elastica,panama rubber tree/castilla elastica,panama rubber tree / castilla elastica
+common dandelion/taraxacum officinale,common dandelion/taraxacum officinale,common dandelion / taraxacum officinale
+russian dandelion/taraxacum kok-saghyz,russian dandelion/taraxacum kok-saghyz,russian dandelion / taraxacum kok - saghyz
+guayule/parthenium argentatum,guayule/parthenium argentatum,guayule / parthenium argentatum
+palaquium gutta,palaquium gutta,palaquium gutta
+scorzonera tau-saghyz,scorzonera tau-saghyz,scorzonera tau - saghyz
+spring rye,spring rye,spring rye
+fall rye,fall rye,fall rye
+winter rye,winter rye,winter rye
+sapodilla/manilkara zapota,sapodilla/manilkara zapota,sapodilla / manilkara zapota
+white sapote/casimiroa edulis,white sapote/casimiroa edulis,white sapote / casimiroa eduli
+chupa-chupa/quararibea cordata,chupa-chupa/quararibea cordata,chupa - chupa / quararibea cordata
+canistel/pouteria campechiana,canistel/pouteria campechiana,canistel / pouteria campechiana
+green sapote/pouteria viridis,green sapote/pouteria viridis,green sapote / pouteria viridis
+mamey sapote/pouteria sapota,mamey sapote/pouteria sapota,mamey sapote / pouteria sapota
+summer savory/satureja hortensis,summer savory/satureja hortensis,summer savory / satureja hortensis
+winter savory/satureja montana,winter savory/satureja montana,winter savory / satureja montana
+crete savory/satureja thymbra,crete savory/satureja thymbra,crete savory / satureja thymbra
+black salsify/scorzonera hispanica,black salsify/scorzonera hispanica,black salsify / scorzonera hispanica
+viper's-grass/scorzonera humilis,viper's-grass/scorzonera humilis,viper's - grass / scorzonera humili
+lebanese salsify/scorzonera libanotica,lebanese salsify/scorzonera libanotica,lebanese salsify / scorzonera libanotica
+garden strawberry/fragaria ã— ananassa,garden strawberry/fragaria ã— ananassa,garden strawberry / fragaria ã — ananassa
+fragaria vesca,fragaria vesca,fragaria vesca
+Fragaria vesca,fragaria vesca,Fragaria vesca
+fragaria virginiana,fragaria virginiana,fragaria virginiana
+Fragaria virginiana,fragaria virginiana,Fragaria virginiana
+fragaria chiloensis,fragaria chiloensis,fragaria chiloensis
+Fragaria chiloensis,fragaria chiloensis,Fragaria chiloensis
+fragaria moschata,fragaria moschata,fragaria moschata
+Fragaria moschata,fragaria moschata,Fragaria moschata
+fragaria viridis,fragaria viridis,fragaria viridi
+sugar palm/arenga pinnata,sugar palm/arenga pinnata,sugar palm / arenga pinnata
+doub palm/borassus flabellifer,doub palm/borassus flabellifer,doub palm / borassus flabellifer
+kitul palm/caryota urens,kitul palm/caryota urens,kitul palm / caryota uren
+juglans regia,juglans regia,juglans regia
+Juglans regia,juglans regia,Juglans regia
+juglans nigra,juglans nigra,juglan nigra
+Juglans nigra,juglans nigra,juglan nigra
+juglans cinerea,juglans cinerea,juglan cinerea
+Juglans cinerea,juglans cinerea,Juglans cinerea
+spring wheat,spring wheat,spring wheat
+winter wheat,winter wheat,winter wheat
+dioscorea rotundata,dioscorea rotundata,dioscorea rotundata
+Dioscorea rotundata,dioscorea rotundata,dioscorea rotundata
+dioscorea cayennensis,dioscorea cayennensis,dioscorea cayennensis
+dioscorea alata,dioscorea alata,dioscorea alata
+Dioscorea alata,dioscorea alata,dioscorea alata
+dioscorea polystachya,dioscorea polystachya,dioscorea polystachya
+dioscorea bulbifera,dioscorea bulbifera,dioscorea bulbifera
+Dioscorea bulbifera,dioscorea bulbifera,Dioscorea bulbifera
+dioscorea esculenta,dioscorea esculenta,dioscorea esculenta
+Dioscorea esculenta,dioscorea esculenta,dioscorea esculenta
+dioscorea dumetorum,dioscorea dumetorum,dioscorea dumetorum
+Dioscorea dumetorum,dioscorea dumetorum,dioscorea dumetorum
+dioscorea trifida,dioscorea trifida,dioscorea trifida
+Dioscorea trifida,dioscorea trifida,dioscorea trifida
+dioscorea hirtiflora subsp. pedicellata,dioscorea hirtiflora subsp. pedicellata,dioscorea hirtiflora subsp . pedicellata
+dioscorea japonica,dioscorea japonica,dioscorea japonica
+harvesting,harvesting,harvesting
+cashmere harvesting,harvesting,cashmere harvest
+tree length logging,harvesting,tree length log
+fishing methods,harvesting,fishing method
+harvesting date,harvesting,harvesting date
+harvesting frequency,harvesting,harvesting frequency
+harvesting losses,harvesting,harvesting loss
+illegal logging,harvesting,illegal logging
+manual harvesting,harvesting,manual harvesting
+mechanical harvesting,harvesting,mechanical harvesting
+rainwater harvesting,harvesting,rainwater harvesting
+salvage logging,harvesting,salvage log
+water harvesting,harvesting,water harvesting
+baling,baling,bale
+mowing,mowing,mow
+haymaking,haymaking,haymake
+no harvesting,no harvesting,no harvesting
+vegetation removal,vegetation removal,vegetation removal
+drainage,drainage,drainage
+acid mine drainage,drainage,acid mine drainage
+biodrainage,drainage,biodrainage
+drainage canals,drainage,drainage canal
+drainage equipment,drainage,drainage equipment
+drainage systems,drainage,drainage system
+drainage water,drainage,drainage water
+mole drainage,drainage,mole drainage
+open ditch drainage,drainage,open ditch drainage
+pipe drainage,drainage,pipe drainage
+recycling of drainage water,drainage,recycling of drainage water
+subsurface drainage,drainage,subsurface drainage
+surface drainage,drainage,surface drainage
+tile drainage,drainage,tile drainage
+underdrainage,drainage,underdrainage
+surface drainage,surface drainage,surface drainage
+subsurface drainage,surface drainage,subsurface drainage
+subsurface drainage,subsurface drainage,subsurface drainage
+no drainage,no drainage,no drainage
+farming system,farming system,farming system
+farming systems,farming system,farming system
+farming systems research,farming system,farming system research
+organic farming,organic farming,organic farming
+organic agriculture,organic farming,organic agriculture
+conventional farming,conventional farming,conventional farming
+precision farming,precision farming,precision farm
+precision agriculture,precision farming,precision agriculture
+integrated crop-livestock,integrated crop-livestock,integrate crop - livestock
+integrated crop-livestock systems,integrated crop-livestock,integrate crop - livestock system
+plantation forestry,plantation forestry,plantation forestry
+succession from abandoned field,succession from abandoned field,succession from abandon field

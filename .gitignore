@@ -1,0 +1,9 @@
+
+**/.ipynb_checkpoints/**
+figures/*
+data/from-meta/papers/*.pdf
+data/from-meta/papers/*.txt
+data/from-meta/webpages/*.html
+data/from-kunsat/papers/*.pdf
+data/from-kunsat/papers/*.txt
+data/from-kunsat/webpages/*.html

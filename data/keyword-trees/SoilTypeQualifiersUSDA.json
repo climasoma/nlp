@@ -1,0 +1,2948 @@
+[
+	{
+		"value":"Abruptic",
+		"greatgroup": [
+			"Durixeralfs",
+			"Argidurids",
+			"Argicryolls",
+			"Argiaquolls",
+			"Argiborolls",
+			"Palecryolls",
+			"Argiudolls"
+		]
+	},
+	{
+		"value":"Abruptic Argiduridic",
+		"greatgroup": [
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Abruptic Haplic",
+		"greatgroup": [
+			"Durixeralfs"
+		]
+	},
+	{
+		"value":"Abruptic Xeric",
+		"greatgroup": [
+			"Argidurids"
+		]
+	},
+	{
+		"value":"Acrudoxic",
+		"greatgroup": [
+			"Hydrudands"
+		]
+	},
+	{
+		"value":"Acrudoxic Hydric",
+		"greatgroup": [
+			"Hapludands"
+		]
+	},
+	{
+		"value":"Aeric",
+		"greatgroup": [
+			"Fragiaqualfs",
+			"Epiaqualfs",
+			"Endoaqualfs",
+			"Glossaqualfs",
+			"Albaqualfs",
+			"Ochraqualfs",
+			"Fluvaquents",
+			"Frasiwassents",
+			"Endoaquents",
+			"Epiaquents",
+			"Haplowassents",
+			"Fluviwassents",
+			"Endoaquepts",
+			"Epiaquepts",
+			"Halaquepts",
+			"Cryaquepts",
+			"Fragiaquepts",
+			"Haplaquepts",
+			"Calciaquolls",
+			"Alaquods",
+			"Epiaquults",
+			"Fragiaquults",
+			"Endoaquults",
+			"Paleaquults",
+			"Epiaquerts",
+			"Dystraquerts",
+			"Endoaquerts"
+		]
+	},
+	{
+		"value":"Aeric Chromic Vertic",
+		"greatgroup": [
+			"Epiaqualfs"
+		]
+	},
+	{
+		"value":"Aeric Fragic",
+		"greatgroup": [
+			"Glossaqualfs",
+			"Epiaqualfs"
+		]
+	},
+	{
+		"value":"Aeric Humic",
+		"greatgroup": [
+			"Cryaquepts"
+		]
+	},
+	{
+		"value":"Aeric Vertic",
+		"greatgroup": [
+			"Epiaqualfs"
+		]
+	},
+	{
+		"value":"Albaquic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Albaquultic",
+		"greatgroup": [
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Albic",
+		"greatgroup": [
+			"Natraqualfs"
+		]
+	},
+	{
+		"value":"Albic Glossic",
+		"greatgroup": [
+			"Natraqualfs"
+		]
+	},
+	{
+		"value":"Alfic",
+		"greatgroup": [
+			"Vitrixerands",
+			"Hapludands",
+			"Udivitrands",
+			"Vitricryands",
+			"Xerarents",
+			"Udarents",
+			"Argiudolls",
+			"Argicryolls",
+			"Argixerolls",
+			"Argiustolls",
+			"Haplorthods",
+			"Epiaquods",
+			"Fragiorthods",
+			"Alaquods"
+		]
+	},
+	{
+		"value":"Alfic Arenic",
+		"greatgroup": [
+			"Alaquods"
+		]
+	},
+	{
+		"value":"Alfic Humic",
+		"greatgroup": [
+			"Vitrixerands",
+			"Haploxerands"
+		]
+	},
+	{
+		"value":"Alfic Lithic",
+		"greatgroup": [
+			"Argiustolls"
+		]
+	},
+	{
+		"value":"Alfic Oxyaquic",
+		"greatgroup": [
+			"Haplorthods",
+			"Fragiorthods"
+		]
+	},
+	{
+		"value":"Alfic Vertic",
+		"greatgroup": [
+			"Argiudolls"
+		]
+	},
+	{
+		"value":"Alic",
+		"greatgroup": [
+			"Hapludands",
+			"Haplocryands",
+			"Epiaquands",
+			"Endoaquands"
+		]
+	},
+	{
+		"value":"Andaqueptic",
+		"greatgroup": [
+			"Ochraqualfs"
+		]
+	},
+	{
+		"value":"Andeptic",
+		"greatgroup": [
+			"Haplohumults"
+		]
+	},
+	{
+		"value":"Andic",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Palexeralfs",
+			"Haploxeralfs",
+			"Hapludalfs",
+			"Glossocryalfs",
+			"Glossudalfs",
+			"Fragiudalfs",
+			"Paleudalfs",
+			"Humicryepts",
+			"Haploxerepts",
+			"Dystrocryepts",
+			"Humudepts",
+			"Haplocryepts",
+			"Humixerepts",
+			"Dystrudepts",
+			"Eutrudepts",
+			"Dystroxerepts",
+			"Haplustepts",
+			"Dystrochrepts",
+			"Fragiudepts",
+			"Humustepts",
+			"Dystrustepts",
+			"Xerochrepts",
+			"Haplumbrepts",
+			"Cryochrepts",
+			"Haplocryolls",
+			"Argixerolls",
+			"Hapludolls",
+			"Haplustolls",
+			"Argiustolls",
+			"Haploxerolls",
+			"Humicryods",
+			"Haplocryods",
+			"Duricryods",
+			"Haplorthods",
+			"Endoaquods",
+			"Haplohumods",
+			"Durorthods",
+			"Cryaquods",
+			"Durihumods",
+			"Haplohumults",
+			"Palehumults",
+			"Haploxerults"
+		]
+	},
+	{
+		"value":"Andic Oxyaquic",
+		"greatgroup": [
+			"Dystrudepts",
+			"Humudepts",
+			"Haploxerepts"
+		]
+	},
+	{
+		"value":"Anionic",
+		"greatgroup": [
+			"Acroperox",
+			"Acrudox"
+		]
+	},
+	{
+		"value":"Anthrodensic",
+		"greatgroup": [
+			"Udorthents"
+		]
+	},
+	{
+		"value":"Anthropic",
+		"greatgroup": [
+			"Udorthents"
+		]
+	},
+	{
+		"value":"Anthroportic",
+		"greatgroup": [
+			"Udorthents"
+		]
+	},
+	{
+		"value":"Aqualfic",
+		"greatgroup": [
+			"Haplorthods"
+		]
+	},
+	{
+		"value":"Aquandic",
+		"greatgroup": [
+			"Endoaqualfs",
+			"Palexeralfs",
+			"Epiaqualfs",
+			"Haploxeralfs",
+			"Albaqualfs",
+			"Xerofluvents",
+			"Cryaquents",
+			"Fluvaquents",
+			"Dystrudepts",
+			"Humaquepts",
+			"Endoaquepts",
+			"Humudepts",
+			"Haploxerepts",
+			"Halaquepts",
+			"Durudepts",
+			"Cryaquepts",
+			"Dystrocryepts",
+			"Dystroxerepts",
+			"Haplocryepts",
+			"Endoaquolls",
+			"Cryaquolls",
+			"Argialbolls",
+			"Haplocryods",
+			"Humicryods"
+		]
+	},
+	{
+		"value":"Aquentic",
+		"greatgroup": [
+			"Fragiorthods",
+			"Haplorthods"
+		]
+	},
+	{
+		"value":"Aquertic",
+		"greatgroup": [
+			"Hapludalfs",
+			"Paleustalfs",
+			"Natrustalfs",
+			"Glossudalfs",
+			"Udifluvents",
+			"Eutrudepts",
+			"Argiudolls",
+			"Hapludolls",
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Aquertic Chromic",
+		"greatgroup": [
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Aquic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Haploxeralfs",
+			"Glossudalfs",
+			"Fragiudalfs",
+			"Hapludalfs",
+			"Natrixeralfs",
+			"Palexeralfs",
+			"Fraglossudalfs",
+			"Haplustalfs",
+			"Natrudalfs",
+			"Fragixeralfs",
+			"Haplocryalfs",
+			"Paleustalfs",
+			"Natrustalfs",
+			"Durixeralfs",
+			"Fragiboralfs",
+			"Vitrixerands",
+			"Fulvudands",
+			"Vitricryands",
+			"Haplocryands",
+			"Udivitrands",
+			"Durudands",
+			"Hapludands",
+			"Haploxerands",
+			"Placudands",
+			"Duricryands",
+			"Melanudands",
+			"Calciargids",
+			"Petrocalcids",
+			"Natrargids",
+			"Haplodurids",
+			"Haplocalcids",
+			"Haplargids",
+			"Paleorthids",
+			"Paleargids",
+			"Xerofluvents",
+			"Quartzipsamments",
+			"Udipsamments",
+			"Udifluvents",
+			"Torriorthents",
+			"Torrifluvents",
+			"Udorthents",
+			"Ustifluvents",
+			"Xeropsamments",
+			"Cryorthents",
+			"Cryofluvents",
+			"Ustipsamments",
+			"Xerorthents",
+			"Ustorthents",
+			"Gelifluvents",
+			"Haploturbels",
+			"Eutrochrepts",
+			"Dystroxerepts",
+			"Haploxerepts",
+			"Eutrudepts",
+			"Dystrudepts",
+			"Haplocryepts",
+			"Haplustepts",
+			"Vitrandepts",
+			"Humudepts",
+			"Haplogelepts",
+			"Dystrocryepts",
+			"Xerochrepts",
+			"Calciustepts",
+			"Humixerepts",
+			"Fragiudepts",
+			"Hapludolls",
+			"Natrixerolls",
+			"Haplocryolls",
+			"Argicryolls",
+			"Argiudolls",
+			"Calcixerolls",
+			"Calciudolls",
+			"Haplustolls",
+			"Argiustolls",
+			"Paleudolls",
+			"Haploxerolls",
+			"Argixerolls",
+			"Natrustolls",
+			"Durixerolls",
+			"Calciustolls",
+			"Palecryolls",
+			"Paleustolls",
+			"Palexerolls",
+			"Hapludox",
+			"Kandiperox",
+			"Haplocryods",
+			"Haplorthods",
+			"Fragiorthods",
+			"Hapludults",
+			"Paleudults",
+			"Fragiudults",
+			"Palehumults",
+			"Haplohumults",
+			"Kanhapludults",
+			"Hapluderts",
+			"Dystruderts",
+			"Haploxererts",
+			"Durixererts"
+		]
+	},
+	{
+		"value":"Aquic Arenic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Hapludalfs",
+			"Haplustalfs",
+			"Paleudults",
+			"Hapludults"
+		]
+	},
+	{
+		"value":"Aquic Cumulic",
+		"greatgroup": [
+			"Haplocryolls",
+			"Hapludolls",
+			"Haploxerolls",
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Aquic Duric",
+		"greatgroup": [
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Aquic Durinodic",
+		"greatgroup": [
+			"Haplocalcids",
+			"Xeropsamments"
+		]
+	},
+	{
+		"value":"Aquic Dystric",
+		"greatgroup": [
+			"Eutrudepts"
+		]
+	},
+	{
+		"value":"Aquic Humic",
+		"greatgroup": [
+			"Dystrudepts"
+		]
+	},
+	{
+		"value":"Aquic Natrargidic",
+		"greatgroup": [
+			"Natridurids"
+		]
+	},
+	{
+		"value":"Aquic Pachic",
+		"greatgroup": [
+			"Argiudolls",
+			"Hapludolls"
+		]
+	},
+	{
+		"value":"Aquicambidic",
+		"greatgroup": [
+			"Haplodurids"
+		]
+	},
+	{
+		"value":"Aquodic",
+		"greatgroup": [
+			"Quartzipsamments"
+		]
+	},
+	{
+		"value":"Aquollic",
+		"greatgroup": [
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Aquultic",
+		"greatgroup": [
+			"Hapludalfs",
+			"Haploxeralfs",
+			"Haplustalfs",
+			"Haploxerolls",
+			"Argixerolls"
+		]
+	},
+	{
+		"value":"Arenic",
+		"greatgroup": [
+			"Hapludalfs",
+			"Paleustalfs",
+			"Endoaqualfs",
+			"Haplustalfs",
+			"Albaqualfs",
+			"Glossudalfs",
+			"Paleudalfs",
+			"Natrustalfs",
+			"Glossaqualfs",
+			"Epiaqualfs",
+			"Ochraqualfs",
+			"Haplargids",
+			"Calciargids",
+			"Paleargids",
+			"Eutrudepts",
+			"Argiudolls",
+			"Argiaquolls",
+			"Alorthods",
+			"Alaquods",
+			"Kanhapludults",
+			"Paleudults",
+			"Hapludults",
+			"Paleaquults",
+			"Kandiudults",
+			"Endoaquults",
+			"Haplustults"
+		]
+	},
+	{
+		"value":"Arenic Aridic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Haplustalfs"
+		]
+	},
+	{
+		"value":"Arenic Oxyaquic",
+		"greatgroup": [
+			"Glossudalfs",
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Arenic Plinthaquic",
+		"greatgroup": [
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Arenic Plinthic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Paleaquults",
+			"Paleudults",
+			"Kandiudults"
+		]
+	},
+	{
+		"value":"Arenic Ultic",
+		"greatgroup": [
+			"Alaquods"
+		]
+	},
+	{
+		"value":"Arenic Umbric",
+		"greatgroup": [
+			"Alaquods",
+			"Paleaquults"
+		]
+	},
+	{
+		"value":"Arenic Ustic",
+		"greatgroup": [
+			"Haplargids",
+			"Calciargids"
+		]
+	},
+	{
+		"value":"Argiaquic",
+		"greatgroup": [
+			"Argialbolls"
+		]
+	},
+	{
+		"value":"Argiaquic Xeric",
+		"greatgroup": [
+			"Argialbolls"
+		]
+	},
+	{
+		"value":"Argic",
+		"greatgroup": [
+			"Petrocalcids",
+			"Duraquolls",
+			"Cryaquolls",
+			"Cryoborolls",
+			"Duricryolls",
+			"Endoaquods",
+			"Fragiaquods"
+		]
+	},
+	{
+		"value":"Argic Pachic",
+		"greatgroup": [
+			"Cryoborolls"
+		]
+	},
+	{
+		"value":"Argidic",
+		"greatgroup": [
+			"Argidurids",
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Argiduridic",
+		"greatgroup": [
+			"Durixerolls",
+			"Argixerolls",
+			"Durustolls"
+		]
+	},
+	{
+		"value":"Aridic",
+		"greatgroup": [
+			"Haplustalfs",
+			"Paleustalfs",
+			"Natrustalfs",
+			"Ustifluvents",
+			"Ustorthents",
+			"Ustipsamments",
+			"Calciustepts",
+			"Haplustepts",
+			"Ustochrepts",
+			"Dystrustepts",
+			"Argiustolls",
+			"Haplustolls",
+			"Argixerolls",
+			"Paleustolls",
+			"Calciustolls",
+			"Haploxerolls",
+			"Palexerolls",
+			"Calcixerolls",
+			"Natrustolls",
+			"Natrixerolls",
+			"Durixerolls",
+			"Haploxererts",
+			"Haplusterts",
+			"Calciusterts",
+			"Calcixererts",
+			"Epiaquerts",
+			"Durixererts",
+			"Endoaquerts"
+		]
+	},
+	{
+		"value":"Aridic Glossic",
+		"greatgroup": [
+			"Natrustalfs"
+		]
+	},
+	{
+		"value":"Aridic Leptic",
+		"greatgroup": [
+			"Natrustalfs",
+			"Natrustolls",
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Aridic Lithic",
+		"greatgroup": [
+			"Ustorthents",
+			"Haplustepts",
+			"Argiustolls",
+			"Argixerolls",
+			"Haploxerolls",
+			"Calcixerolls",
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Boralfic",
+		"greatgroup": [
+			"Argixerolls"
+		]
+	},
+	{
+		"value":"Borollic",
+		"greatgroup": [
+			"Haplargids"
+		]
+	},
+	{
+		"value":"Calciargidic",
+		"greatgroup": [
+			"Argixerolls"
+		]
+	},
+	{
+		"value":"Calcic",
+		"greatgroup": [
+			"Haploxeralfs",
+			"Haplustalfs",
+			"Haplotorrands",
+			"Paleargids",
+			"Petrocalcids",
+			"Argigypsids",
+			"Aquisalids",
+			"Haplosalids",
+			"Haploxerepts",
+			"Haplocryepts",
+			"Haplustepts",
+			"Argicryolls",
+			"Argixerolls",
+			"Hapludolls",
+			"Haploxerolls",
+			"Haplocryolls",
+			"Cryaquolls",
+			"Natrudolls",
+			"Argiudolls",
+			"Duricryolls",
+			"Paleustolls",
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Calcic Lithic",
+		"greatgroup": [
+			"Petrocalcids"
+		]
+	},
+	{
+		"value":"Calcic Pachic",
+		"greatgroup": [
+			"Argicryolls",
+			"Haploxerolls",
+			"Argixerolls",
+			"Haplocryolls"
+		]
+	},
+	{
+		"value":"Calcic Udic",
+		"greatgroup": [
+			"Haplustepts"
+		]
+	},
+	{
+		"value":"Calcidic",
+		"greatgroup": [
+			"Haplustalfs",
+			"Paleustalfs",
+			"Haploxerolls",
+			"Argiustolls",
+			"Paleustolls"
+		]
+	},
+	{
+		"value":"Cambic",
+		"greatgroup": [
+			"Gypsiorthids"
+		]
+	},
+	{
+		"value":"Cambidic",
+		"greatgroup": [
+			"Haplodurids",
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Chromic",
+		"greatgroup": [
+			"Haploxererts",
+			"Dystraquerts",
+			"Haplotorrerts",
+			"Gypsitorrerts",
+			"Hapluderts",
+			"Calcixererts",
+			"Haplusterts",
+			"Haplocryerts",
+			"Durixererts",
+			"Epiaquerts",
+			"Dystruderts",
+			"Endoaquerts",
+			"Calcitorrerts",
+			"Salitorrerts"
+		]
+	},
+	{
+		"value":"Chromic Udic",
+		"greatgroup": [
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Chromic Vertic",
+		"greatgroup": [
+			"Epiaqualfs",
+			"Albaqualfs",
+			"Hapludalfs",
+			"Endoaqualfs"
+		]
+	},
+	{
+		"value":"Cryic",
+		"greatgroup": [
+			"Paleborolls"
+		]
+	},
+	{
+		"value":"Cumulic",
+		"greatgroup": [
+			"Humudepts",
+			"Humaquepts",
+			"Humixerepts",
+			"Haploxerolls",
+			"Haplustolls",
+			"Haplocryolls",
+			"Endoaquolls",
+			"Hapludolls",
+			"Cryaquolls",
+			"Haplaquolls",
+			"Epiaquolls"
+		]
+	},
+	{
+		"value":"Cumulic Ultic",
+		"greatgroup": [
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Cumulic Vertic",
+		"greatgroup": [
+			"Endoaquolls",
+			"Epiaquolls"
+		]
+	},
+	{
+		"value":"Duric",
+		"greatgroup": [
+			"Hapludands",
+			"Vitritorrands",
+			"Petroargids",
+			"Haplocalcids",
+			"Torriorthents",
+			"Torrifluvents",
+			"Halaquepts",
+			"Haploxerolls",
+			"Argixerolls",
+			"Endoaquolls",
+			"Palexerolls",
+			"Natrixerolls"
+		]
+	},
+	{
+		"value":"Duric Xeric",
+		"greatgroup": [
+			"Haplocalcids",
+			"Petroargids",
+			"Petrocryids",
+			"Torrifluvents"
+		]
+	},
+	{
+		"value":"Duridic",
+		"greatgroup": [
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Durinodic",
+		"greatgroup": [
+			"Haplocambids",
+			"Haplargids",
+			"Natrargids",
+			"Calciargids",
+			"Haplocalcids"
+		]
+	},
+	{
+		"value":"Durinodic Xeric",
+		"greatgroup": [
+			"Haplargids",
+			"Calciargids",
+			"Haplocalcids",
+			"Paleargids",
+			"Natrargids",
+			"Haplocambids",
+			"Aquicambids"
+		]
+	},
+	{
+		"value":"Durixerollic",
+		"greatgroup": [
+			"Camborthids"
+		]
+	},
+	{
+		"value":"Dystric",
+		"greatgroup": [
+			"Haplustands",
+			"Xeropsamments",
+			"Xerorthents",
+			"Eutrudepts",
+			"Haplustepts",
+			"Eutrochrepts",
+			"Xerochrepts"
+		]
+	},
+	{
+		"value":"Dystric Fluventic",
+		"greatgroup": [
+			"Eutrudepts"
+		]
+	},
+	{
+		"value":"Entic",
+		"greatgroup": [
+			"Dystrandepts",
+			"Durixerepts",
+			"Humudepts",
+			"Xerumbrepts",
+			"Haploxerolls",
+			"Hapludolls",
+			"Haplustolls",
+			"Durustolls",
+			"Alorthods",
+			"Haplorthods",
+			"Haplocryods",
+			"Sideraquods",
+			"Fragiorthods",
+			"Hapluderts",
+			"Haplotorrerts",
+			"Haploxererts",
+			"Calcixererts",
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Entic Grossarenic",
+		"greatgroup": [
+			"Alorthods"
+		]
+	},
+	{
+		"value":"Entic Lithic",
+		"greatgroup": [
+			"Haplorthods"
+		]
+	},
+	{
+		"value":"Entic Udic",
+		"greatgroup": [
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Entic Ultic",
+		"greatgroup": [
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Eutric",
+		"greatgroup": [
+			"Glossocryalfs",
+			"Haplocryalfs",
+			"Fulvudands",
+			"Hydrudands",
+			"Hapludands",
+			"Fulvicryands",
+			"Dystrocryepts",
+			"Acrustox"
+		]
+	},
+	{
+		"value":"Eutric Lithic",
+		"greatgroup": [
+			"Fulvudands"
+		]
+	},
+	{
+		"value":"Eutric Pachic",
+		"greatgroup": [
+			"Fulvudands",
+			"Fulvicryands"
+		]
+	},
+	{
+		"value":"Eutric Thaptic",
+		"greatgroup": [
+			"Hapludands"
+		]
+	},
+	{
+		"value":"Eutrochreptic",
+		"greatgroup": [
+			"Rendolls"
+		]
+	},
+	{
+		"value":"Fibric",
+		"greatgroup": [
+			"Haplohemists"
+		]
+	},
+	{
+		"value":"Fluvaquentic",
+		"greatgroup": [
+			"Hemistels",
+			"Aquorthels",
+			"Cryosaprists",
+			"Haplosaprists",
+			"Cryohemists",
+			"Haplohemists",
+			"Cryofibrists",
+			"Eutrudepts",
+			"Endoaquepts",
+			"Dystrudepts",
+			"Cryaquepts",
+			"Humaquepts",
+			"Epiaquepts",
+			"Humudepts",
+			"Dystrochrepts",
+			"Dystroxerepts",
+			"Endoaquolls",
+			"Haploxerolls",
+			"Hapludolls",
+			"Haplustolls",
+			"Haplocryolls"
+		]
+	},
+	{
+		"value":"Fluvaquentic Vertic",
+		"greatgroup": [
+			"Endoaquolls"
+		]
+	},
+	{
+		"value":"Fluventic",
+		"greatgroup": [
+			"Haplocambids",
+			"Aquicambids",
+			"Sulfiwassents",
+			"Psammowassents",
+			"Frasiwassents",
+			"Haplorthels",
+			"Dystrudepts",
+			"Endoaquepts",
+			"Haplustepts",
+			"Dystrochrepts",
+			"Haploxerepts",
+			"Haplocryepts",
+			"Humudepts",
+			"Dystroxerepts",
+			"Eutrudepts",
+			"Humixerepts",
+			"Humicryepts",
+			"Dystrocryepts",
+			"Dystropepts",
+			"Xerumbrepts",
+			"Hapludolls",
+			"Haploxerolls",
+			"Haplustolls",
+			"Calciudolls"
+		]
+	},
+	{
+		"value":"Fluventic Humic",
+		"greatgroup": [
+			"Dystrudepts"
+		]
+	},
+	{
+		"value":"Folistic",
+		"greatgroup": [
+			"Haplocryands",
+			"Humicryods"
+		]
+	},
+	{
+		"value":"Fragiaquic",
+		"greatgroup": [
+			"Hapludalfs",
+			"Paleudalfs",
+			"Haploxeralfs",
+			"Glossudalfs",
+			"Hapludults",
+			"Paleudults",
+			"Kanhapludults"
+		]
+	},
+	{
+		"value":"Fragic",
+		"greatgroup": [
+			"Glossudalfs",
+			"Glossaqualfs",
+			"Paleudalfs",
+			"Epiaqualfs",
+			"Hapludalfs",
+			"Epiaquepts",
+			"Haplorthods",
+			"Paleudults",
+			"Kanhapludults"
+		]
+	},
+	{
+		"value":"Fragic Oxyaquic",
+		"greatgroup": [
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Glacic",
+		"greatgroup": [
+			"Folistels",
+			"Haplorthels"
+		]
+	},
+	{
+		"value":"Glossaquic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Hapludalfs",
+			"Natrudalfs",
+			"Eutroboralfs",
+			"Fragiudults"
+		]
+	},
+	{
+		"value":"Glossic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Natraqualfs",
+			"Hapludalfs",
+			"Eutroboralfs",
+			"Natrudolls",
+			"Natrustolls",
+			"Fragiudults"
+		]
+	},
+	{
+		"value":"Glossic Vertic",
+		"greatgroup": [
+			"Natrustolls"
+		]
+	},
+	{
+		"value":"Glossoboric",
+		"greatgroup": [
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Grossarenic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Paleudalfs",
+			"Endoaqualfs",
+			"Argiaquolls",
+			"Alorthods",
+			"Alaquods",
+			"Paleudults",
+			"Kandiudults",
+			"Paleaquults"
+		]
+	},
+	{
+		"value":"Grossarenic Plinthic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Gypsic",
+		"greatgroup": [
+			"Haplosalids",
+			"Aquisalids",
+			"Haploxerepts",
+			"Haplustepts",
+			"Calciustepts",
+			"Calciustolls"
+		]
+	},
+	{
+		"value":"Halic",
+		"greatgroup": [
+			"Haplosaprists",
+			"Haplotorrerts",
+			"Haploxererts",
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Haplargidic",
+		"greatgroup": [
+			"Natrustalfs"
+		]
+	},
+	{
+		"value":"Haplic",
+		"greatgroup": [
+			"Glossudalfs",
+			"Durixeralfs",
+			"Palexeralfs",
+			"Natrargids",
+			"Sulfiwassents",
+			"Ustarents",
+			"Sulfaquents",
+			"Durixerolls",
+			"Vermudolls",
+			"Durixererts"
+		]
+	},
+	{
+		"value":"Haplic Haploxerollic",
+		"greatgroup": [
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Haplic Palexerollic",
+		"greatgroup": [
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Haplic Ustic",
+		"greatgroup": [
+			"Natrargids"
+		]
+	},
+	{
+		"value":"Haplocalcidic",
+		"greatgroup": [
+			"Haplustepts"
+		]
+	},
+	{
+		"value":"Haploduridic",
+		"greatgroup": [
+			"Torripsamments",
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Haploxeralfic",
+		"greatgroup": [
+			"Argidurids",
+			"Natrargids"
+		]
+	},
+	{
+		"value":"Haploxerandic",
+		"greatgroup": [
+			"Haplocryepts",
+			"Humicryepts",
+			"Dystrocryepts"
+		]
+	},
+	{
+		"value":"Haploxerollic",
+		"greatgroup": [
+			"Natrargids",
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Hemic",
+		"greatgroup": [
+			"Haplofibrists",
+			"Haplosaprists",
+			"Sphagnofibrists"
+		]
+	},
+	{
+		"value":"Histic",
+		"greatgroup": [
+			"Glossaqualfs",
+			"Vitraquands",
+			"Endoaquands",
+			"Cryaquands",
+			"Sulfaquents",
+			"Humaquepts",
+			"Cryaquepts",
+			"Gelaquepts",
+			"Cryaquolls",
+			"Endoaquolls",
+			"Alaquods",
+			"Epiaquods"
+		]
+	},
+	{
+		"value":"Histic Lithic",
+		"greatgroup": [
+			"Cryaquepts"
+		]
+	},
+	{
+		"value":"Histic Placic",
+		"greatgroup": [
+			"Petraquepts"
+		]
+	},
+	{
+		"value":"Humaqueptic",
+		"greatgroup": [
+			"Epiaquents",
+			"Fluvaquents",
+			"Psammaquents"
+		]
+	},
+	{
+		"value":"Humic",
+		"greatgroup": [
+			"Haploxerands",
+			"Vitrixerands",
+			"Vitricryands",
+			"Ustivitrands",
+			"Udivitrands",
+			"Haplustands",
+			"Dystrudepts",
+			"Dystroxerepts",
+			"Fragiaquepts",
+			"Dystrustepts",
+			"Eutrudepts",
+			"Endoaquepts",
+			"Haploxerepts",
+			"Fragixerepts",
+			"Cryaquepts",
+			"Dystrocryepts",
+			"Eutrogelepts",
+			"Epiaquepts",
+			"Gelaquepts",
+			"Haplaquox",
+			"Kandiudox",
+			"Hapludox",
+			"Kandiustox",
+			"Duricryods",
+			"Hapludults"
+		]
+	},
+	{
+		"value":"Humic Lithic",
+		"greatgroup": [
+			"Dystrocryepts",
+			"Dystrudepts",
+			"Dystroxerepts"
+		]
+	},
+	{
+		"value":"Humic Pachic",
+		"greatgroup": [
+			"Dystrudepts"
+		]
+	},
+	{
+		"value":"Humic Psammentic",
+		"greatgroup": [
+			"Dystrudepts"
+		]
+	},
+	{
+		"value":"Humic Rhodic",
+		"greatgroup": [
+			"Kandiudox"
+		]
+	},
+	{
+		"value":"Humic Xeric",
+		"greatgroup": [
+			"Vitricryands"
+		]
+	},
+	{
+		"value":"Hydraquentic",
+		"greatgroup": [
+			"Humaquepts"
+		]
+	},
+	{
+		"value":"Hydric",
+		"greatgroup": [
+			"Hapludands",
+			"Frasiwassents",
+			"Cryofibrists",
+			"Haplohemists",
+			"Borohemists"
+		]
+	},
+	{
+		"value":"Inceptic",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Hapludalfs",
+			"Haplustalfs",
+			"Haprendolls",
+			"Hapludox",
+			"Haplustox",
+			"Hapludults"
+		]
+	},
+	{
+		"value":"Kandic",
+		"greatgroup": [
+			"Albaquults"
+		]
+	},
+	{
+		"value":"Kandiustalfic",
+		"greatgroup": [
+			"Eutrustox"
+		]
+	},
+	{
+		"value":"Lamellic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Hapludalfs",
+			"Haplocryalfs",
+			"Haploxeralfs",
+			"Haplustalfs",
+			"Paleudalfs",
+			"Quartzipsamments",
+			"Xeropsamments",
+			"Udipsamments",
+			"Ustipsamments",
+			"Cryorthents",
+			"Cryopsamments",
+			"Haplustepts",
+			"Haplocryepts",
+			"Dystrocryepts",
+			"Dystrudepts",
+			"Humicryepts",
+			"Eutrudepts",
+			"Haploxerepts",
+			"Argiudolls",
+			"Haplorthods",
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Lamellic Oxyaquic",
+		"greatgroup": [
+			"Haplorthods"
+		]
+	},
+	{
+		"value":"Lamellic Ustic",
+		"greatgroup": [
+			"Quartzipsamments"
+		]
+	},
+	{
+		"value":"Leptic",
+		"greatgroup": [
+			"Haplogypsids",
+			"Natrustolls",
+			"Natrudolls",
+			"Haploxererts",
+			"Calcixererts",
+			"Haplusterts",
+			"Haplotorrerts",
+			"Calcitorrerts",
+			"Hapluderts"
+		]
+	},
+	{
+		"value":"Leptic Torrertic",
+		"greatgroup": [
+			"Natrustalfs",
+			"Natrustolls"
+		]
+	},
+	{
+		"value":"Leptic Udic",
+		"greatgroup": [
+			"Haplusterts"
+		]
+	},
+	{
+		"value":"Leptic Vertic",
+		"greatgroup": [
+			"Natrustolls"
+		]
+	},
+	{
+		"value":"Limnic",
+		"greatgroup": [
+			"Haplohemists",
+			"Haplosaprists",
+			"Cryosaprists"
+		]
+	},
+	{
+		"value":"Lithic",
+		"greatgroup": [
+			"Haplustalfs",
+			"Hapludalfs",
+			"Haploxeralfs",
+			"Haplocryalfs",
+			"Rhodustalfs",
+			"Cryoboralfs",
+			"Glossocryalfs",
+			"Vitricryands",
+			"Haplustands",
+			"Ustivitrands",
+			"Haplocryands",
+			"Vitrixerands",
+			"Udivitrands",
+			"Fulvudands",
+			"Haploxerands",
+			"Hapludands",
+			"Hydrudands",
+			"Endoaquands",
+			"Cryaquands",
+			"Haplargids",
+			"Haplocambids",
+			"Calciargids",
+			"Haplocalcids",
+			"Natrargids",
+			"Haplogypsids",
+			"Calcigypsids",
+			"Torriorthents",
+			"Xerorthents",
+			"Cryorthents",
+			"Torripsamments",
+			"Ustorthents",
+			"Udorthents",
+			"Ustipsamments",
+			"Psammaquents",
+			"Quartzipsamments",
+			"Xeropsamments",
+			"Udipsamments",
+			"Cryopsamments",
+			"Haplorthels",
+			"Haplosaprists",
+			"Cryohemists",
+			"Udifolists",
+			"Cryofolists",
+			"Torrifolists",
+			"Cryosaprists",
+			"Ustifolists",
+			"Dystrudepts",
+			"Haploxerepts",
+			"Haplocryepts",
+			"Eutrochrepts",
+			"Dystrochrepts",
+			"Eutrudepts",
+			"Calcixerepts",
+			"Calciustepts",
+			"Humicryepts",
+			"Dystroxerepts",
+			"Haplustepts",
+			"Humudepts",
+			"Dystrocryepts",
+			"Humixerepts",
+			"Dystrustepts",
+			"Calcicryepts",
+			"Endoaquepts",
+			"Ustochrepts",
+			"Argicryolls",
+			"Calcicryolls",
+			"Haploxerolls",
+			"Haplustolls",
+			"Argixerolls",
+			"Calciustolls",
+			"Argiustolls",
+			"Haplocryolls",
+			"Calciborolls",
+			"Hapludolls",
+			"Endoaquolls",
+			"Argiudolls",
+			"Haprendolls",
+			"Cryrendolls",
+			"Calcixerolls",
+			"Haplogelolls",
+			"Cryoborolls",
+			"Eutrustox",
+			"Haplorthods",
+			"Humicryods",
+			"Haplocryods",
+			"Cryaquods",
+			"Haplohumods",
+			"Haplogelods",
+			"Hapludults",
+			"Haplohumults",
+			"Haploxerults",
+			"Haplusterts",
+			"Haploxererts"
+		]
+	},
+	{
+		"value":"Lithic-Ruptic-Entic",
+		"greatgroup": [
+			"Hapludults"
+		]
+	},
+	{
+		"value":"Lithic Mollic",
+		"greatgroup": [
+			"Haploxeralfs"
+		]
+	},
+	{
+		"value":"Lithic Petrocalcic",
+		"greatgroup": [
+			"Calciustolls"
+		]
+	},
+	{
+		"value":"Lithic Ruptic-Entic",
+		"greatgroup": [
+			"Haplargids"
+		]
+	},
+	{
+		"value":"Lithic Ruptic-Inceptic",
+		"greatgroup": [
+			"Haploxeralfs"
+		]
+	},
+	{
+		"value":"Lithic Ultic",
+		"greatgroup": [
+			"Argixerolls",
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Lithic Ustic",
+		"greatgroup": [
+			"Haplocalcids",
+			"Haplargids",
+			"Haplocambids",
+			"Torriorthents"
+		]
+	},
+	{
+		"value":"Lithic Xeric",
+		"greatgroup": [
+			"Haplocalcids",
+			"Haplargids",
+			"Haplocambids",
+			"Natrargids",
+			"Torriorthents"
+		]
+	},
+	{
+		"value":"Lithic Xerollic",
+		"greatgroup": [
+			"Haplargids",
+			"Camborthids"
+		]
+	},
+	{
+		"value":"Mollic",
+		"greatgroup": [
+			"Haploxeralfs",
+			"Hapludalfs",
+			"Endoaqualfs",
+			"Epiaqualfs",
+			"Albaqualfs",
+			"Paleudalfs",
+			"Glossaqualfs",
+			"Palexeralfs",
+			"Eutroboralfs",
+			"Glossocryalfs",
+			"Ochraqualfs",
+			"Haplocryalfs",
+			"Fragixeralfs",
+			"Natrustalfs",
+			"Palecryalfs",
+			"Natraqualfs",
+			"Fluvaquents",
+			"Ustifluvents",
+			"Xerofluvents",
+			"Udifluvents",
+			"Endoaquents",
+			"Psammaquents",
+			"Udarents",
+			"Epiaquents",
+			"Cryofluvents",
+			"Endoaquepts",
+			"Haplaquepts",
+			"Epiaquepts"
+		]
+	},
+	{
+		"value":"Mollic Oxyaquic",
+		"greatgroup": [
+			"Hapludalfs"
+		]
+	},
+	{
+		"value":"Natrargidic",
+		"greatgroup": [
+			"Natridurids"
+		]
+	},
+	{
+		"value":"Natric",
+		"greatgroup": [
+			"Haploxeralfs",
+			"Palexeralfs",
+			"Vermaqualfs",
+			"Durixeralfs",
+			"Camborthids",
+			"Argicryids",
+			"Durustolls",
+			"Duraquolls"
+		]
+	},
+	{
+		"value":"Natrixeralfic",
+		"greatgroup": [
+			"Natridurids"
+		]
+	},
+	{
+		"value":"Ochreptic",
+		"greatgroup": [
+			"Fragiudalfs"
+		]
+	},
+	{
+		"value":"Orthidic",
+		"greatgroup": [
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Oxic",
+		"greatgroup": [
+			"Hapludands",
+			"Dystrudepts",
+			"Haplustepts",
+			"Dystrustepts",
+			"Humustepts"
+		]
+	},
+	{
+		"value":"Oxyaquic",
+		"greatgroup": [
+			"Hapludalfs",
+			"Glossudalfs",
+			"Paleudalfs",
+			"Fragiudalfs",
+			"Glossocryalfs",
+			"Paleustalfs",
+			"Haplustalfs",
+			"Haplocryalfs",
+			"Fraglossudalfs",
+			"Fulvudands",
+			"Duricryands",
+			"Haplocryands",
+			"Hapludands",
+			"Vitricryands",
+			"Udivitrands",
+			"Ustifluvents",
+			"Udipsamments",
+			"Udorthents",
+			"Cryorthents",
+			"Torriorthents",
+			"Torrifluvents",
+			"Cryofluvents",
+			"Gelorthents",
+			"Udifluvents",
+			"Torripsamments",
+			"Xerofluvents",
+			"Ustorthents",
+			"Cryopsamments",
+			"Ustipsamments",
+			"Quartzipsamments",
+			"Xeropsamments",
+			"Humudepts",
+			"Dystroxerepts",
+			"Haplocryepts",
+			"Dystrudepts",
+			"Eutrudepts",
+			"Haplustepts",
+			"Dystrocryepts",
+			"Humicryepts",
+			"Calcicryepts",
+			"Humixerepts",
+			"Argiudolls",
+			"Haplustolls",
+			"Calcixerolls",
+			"Argiustolls",
+			"Argicryolls",
+			"Argixerolls",
+			"Haploxerolls",
+			"Hapludolls",
+			"Haplocryolls",
+			"Calciustolls",
+			"Palecryolls",
+			"Haplorthods",
+			"Alorthods",
+			"Fragiorthods",
+			"Haplocryods",
+			"Humicryods",
+			"Hapludults",
+			"Kanhapludults",
+			"Paleudults",
+			"Palehumults",
+			"Haplohumults",
+			"Dystruderts",
+			"Hapluderts"
+		]
+	},
+	{
+		"value":"Oxyaquic Ultic",
+		"greatgroup": [
+			"Haplorthods"
+		]
+	},
+	{
+		"value":"Oxyaquic Vertic",
+		"greatgroup": [
+			"Glossudalfs",
+			"Paleustalfs",
+			"Hapludalfs",
+			"Haplustalfs",
+			"Argiudolls"
+		]
+	},
+	{
+		"value":"Oxyaquic Vitrandic",
+		"greatgroup": [
+			"Haploxerepts"
+		]
+	},
+	{
+		"value":"Pachic",
+		"greatgroup": [
+			"Haplustands",
+			"Melanudands",
+			"Fulvudands",
+			"Fulvicryands",
+			"Melanoxerands",
+			"Humudepts",
+			"Humixerepts",
+			"Argiudolls",
+			"Argiustolls",
+			"Paleustolls",
+			"Haplocryolls",
+			"Argixerolls",
+			"Haploxerolls",
+			"Haplustolls",
+			"Argicryolls",
+			"Hapludolls",
+			"Palecryolls",
+			"Calcixerolls",
+			"Calciustolls",
+			"Palexerolls",
+			"Calcicryolls"
+		]
+	},
+	{
+		"value":"Pachic Udertic",
+		"greatgroup": [
+			"Argiustolls",
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Pachic Ultic",
+		"greatgroup": [
+			"Argixerolls",
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Pachic Vertic",
+		"greatgroup": [
+			"Argiustolls",
+			"Haplustolls",
+			"Argiudolls"
+		]
+	},
+	{
+		"value":"Paleargidic",
+		"greatgroup": [
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Palexerollic",
+		"greatgroup": [
+			"Durixerolls"
+		]
+	},
+	{
+		"value":"Pergelic",
+		"greatgroup": [
+			"Cryofibrists"
+		]
+	},
+	{
+		"value":"Petrocalcic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Palexeralfs",
+			"Natrustalfs",
+			"Duritorrands",
+			"Calciustepts",
+			"Calciustolls",
+			"Paleustolls",
+			"Palexerolls",
+			"Calciaquolls",
+			"Calcitorrerts",
+			"Calciusterts",
+			"Calcixererts"
+		]
+	},
+	{
+		"value":"Petrocalcidic",
+		"greatgroup": [
+			"Palexerolls"
+		]
+	},
+	{
+		"value":"Petrogypsic",
+		"greatgroup": [
+			"Haplosalids"
+		]
+	},
+	{
+		"value":"Petronodic",
+		"greatgroup": [
+			"Haplocalcids",
+			"Natrargids",
+			"Calcigypsids",
+			"Calciargids"
+		]
+	},
+	{
+		"value":"Petronodic Ustic",
+		"greatgroup": [
+			"Paleargids",
+			"Haplocalcids",
+			"Calciargids"
+		]
+	},
+	{
+		"value":"Petronodic Xeric",
+		"greatgroup": [
+			"Haplocalcids",
+			"Calciargids"
+		]
+	},
+	{
+		"value":"Placic",
+		"greatgroup": [
+			"Petraquepts",
+			"Cryaquods"
+		]
+	},
+	{
+		"value":"Plinthaquic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Plinthic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Hapludox",
+			"Haplaquox",
+			"Acroperox",
+			"Paleaquults",
+			"Paleudults",
+			"Kandiudults",
+			"Haplohumults",
+			"Fragiudults",
+			"Palehumults"
+		]
+	},
+	{
+		"value":"Psammaquentic",
+		"greatgroup": [
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Psammentic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Paleudalfs",
+			"Hapludalfs",
+			"Haplustalfs",
+			"Frasiwassents",
+			"Humudepts",
+			"Argiudolls",
+			"Haploxerolls",
+			"Hapludults",
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Rendollic",
+		"greatgroup": [
+			"Eutrudepts"
+		]
+	},
+	{
+		"value":"Rhodic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Kanhapludalfs",
+			"Paleustalfs",
+			"Haploperox",
+			"Hapludox",
+			"Eutrustox",
+			"Acrudox",
+			"Haplustox",
+			"Kanhapludults",
+			"Paleudults",
+			"Kandiudults"
+		]
+	},
+	{
+		"value":"Ruptic",
+		"greatgroup": [
+			"Histoturbels"
+		]
+	},
+	{
+		"value":"Ruptic-Alfic",
+		"greatgroup": [
+			"Eutrudepts"
+		]
+	},
+	{
+		"value":"Ruptic-Histic",
+		"greatgroup": [
+			"Aquiturbels"
+		]
+	},
+	{
+		"value":"Ruptic-Lithic",
+		"greatgroup": [
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Ruptic-Ultic",
+		"greatgroup": [
+			"Dystrudepts"
+		]
+	},
+	{
+		"value":"Sapric",
+		"greatgroup": [
+			"Haplohemists",
+			"Sulfiwassists",
+			"Frasiwassists"
+		]
+	},
+	{
+		"value":"Sodic",
+		"greatgroup": [
+			"Aquicambids",
+			"Haplocambids",
+			"Haplocalcids",
+			"Haplogypsids",
+			"Torriarents",
+			"Hydraquents",
+			"Xerarents",
+			"Endoaquents",
+			"Psammaquents",
+			"Calcixerepts",
+			"Haplusterts",
+			"Haploxererts",
+			"Gypsiusterts",
+			"Endoaquerts",
+			"Haplotorrerts",
+			"Epiaquerts"
+		]
+	},
+	{
+		"value":"Sodic Ustic",
+		"greatgroup": [
+			"Haplocambids",
+			"Haplocalcids"
+		]
+	},
+	{
+		"value":"Sodic Xeric",
+		"greatgroup": [
+			"Haplocambids",
+			"Haplocalcids"
+		]
+	},
+	{
+		"value":"Sphagnic",
+		"greatgroup": [
+			"Cryofibrists"
+		]
+	},
+	{
+		"value":"Spodic",
+		"greatgroup": [
+			"Haplocryands",
+			"Vitricryands",
+			"Psammaquents",
+			"Quartzipsamments",
+			"Udipsamments",
+			"Dystrocryepts",
+			"Dystrudepts",
+			"Humicryepts",
+			"Paleudults"
+		]
+	},
+	{
+		"value":"Sulfic",
+		"greatgroup": [
+			"Haplowassents",
+			"Hydrowassents",
+			"Psammowassents",
+			"Fluvaquents",
+			"Fluviwassents",
+			"Endoaquepts"
+		]
+	},
+	{
+		"value":"Terric",
+		"greatgroup": [
+			"Hemistels",
+			"Haplosaprists",
+			"Cryosaprists",
+			"Haplohemists",
+			"Sulfihemists",
+			"Cryofibrists",
+			"Sulfisaprists",
+			"Cryohemists",
+			"Sphagnofibrists",
+			"Medisaprists",
+			"Borosaprists",
+			"Haplofibrists"
+		]
+	},
+	{
+		"value":"Thaptic",
+		"greatgroup": [
+			"Haplocryands",
+			"Endoaquands",
+			"Cryaquands",
+			"Hydrudands",
+			"Vitricryands"
+		]
+	},
+	{
+		"value":"Thapto-Histic",
+		"greatgroup": [
+			"Sulfaquents",
+			"Fluvaquents",
+			"Sulfiwassents",
+			"Hydraquents",
+			"Endoaquolls"
+		]
+	},
+	{
+		"value":"Torrertic",
+		"greatgroup": [
+			"Haplustalfs",
+			"Natrustalfs",
+			"Ustorthents",
+			"Ustifluvents",
+			"Haplustepts",
+			"Calciustepts",
+			"Dystrustepts",
+			"Haplustolls",
+			"Paleustolls",
+			"Argixerolls",
+			"Argiustolls",
+			"Haploxerolls",
+			"Natrustolls",
+			"Calciustolls"
+		]
+	},
+	{
+		"value":"Torrifluventic",
+		"greatgroup": [
+			"Haplustepts",
+			"Haploxerolls",
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Torriorthentic",
+		"greatgroup": [
+			"Haplustolls",
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Torripsammentic",
+		"greatgroup": [
+			"Haploxerolls"
+		]
+	},
+	{
+		"value":"Torroxic",
+		"greatgroup": [
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Typic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Haploxeralfs",
+			"Haplustalfs",
+			"Endoaqualfs",
+			"Haplocryalfs",
+			"Hapludalfs",
+			"Glossudalfs",
+			"Fragiudalfs",
+			"Paleudalfs",
+			"Glossaqualfs",
+			"Fragiaqualfs",
+			"Epiaqualfs",
+			"Albaqualfs",
+			"Glossocryalfs",
+			"Natrixeralfs",
+			"Natrustalfs",
+			"Durixeralfs",
+			"Rhodudalfs",
+			"Palexeralfs",
+			"Natraqualfs",
+			"Vermaqualfs",
+			"Palecryalfs",
+			"Rhodustalfs",
+			"Eutroboralfs",
+			"Glossoboralfs",
+			"Rhodoxeralfs",
+			"Natrudalfs",
+			"Cryaqualfs",
+			"Ochraqualfs",
+			"Haploxerands",
+			"Udivitrands",
+			"Hydrudands",
+			"Ustivitrands",
+			"Vitrixerands",
+			"Vitricryands",
+			"Haplocryands",
+			"Fulvudands",
+			"Vitraquands",
+			"Fulvicryands",
+			"Endoaquands",
+			"Cryaquands",
+			"Melanocryands",
+			"Vitritorrands",
+			"Hapludands",
+			"Melanoxerands",
+			"Durudands",
+			"Melanaquands",
+			"Placaquands",
+			"Haplotorrands",
+			"Durustands",
+			"Placudands",
+			"Haplustands",
+			"Duricryands",
+			"Duraquands",
+			"Haplargids",
+			"Haplocalcids",
+			"Haplocambids",
+			"Aquisalids",
+			"Haplodurids",
+			"Calcigypsids",
+			"Natrargids",
+			"Haplogypsids",
+			"Petrocalcids",
+			"Argidurids",
+			"Paleargids",
+			"Calciargids",
+			"Argigypsids",
+			"Natrigypsids",
+			"Haplosalids",
+			"Petroargids",
+			"Petrogypsids",
+			"Natridurids",
+			"Gypsiargids",
+			"Salorthids",
+			"Durorthids",
+			"Petrocambids",
+			"Xeropsamments",
+			"Udipsamments",
+			"Cryorthents",
+			"Udifluvents",
+			"Cryaquents",
+			"Torriorthents",
+			"Torrifluvents",
+			"Quartzipsamments",
+			"Ustorthents",
+			"Fluvaquents",
+			"Torripsamments",
+			"Xerofluvents",
+			"Ustifluvents",
+			"Hydraquents",
+			"Xerorthents",
+			"Ustipsamments",
+			"Psammaquents",
+			"Sulfaquents",
+			"Udorthents",
+			"Cryopsamments",
+			"Cryofluvents",
+			"Endoaquents",
+			"Haplaquents",
+			"Gelorthents",
+			"Haploturbels",
+			"Aquiturbels",
+			"Historthels",
+			"Hemistels",
+			"Aquorthels",
+			"Histoturbels",
+			"Haplorthels",
+			"Fibristels",
+			"Folistels",
+			"Cryofolists",
+			"Cryohemists",
+			"Haplohemists",
+			"Haplosaprists",
+			"Udifolists",
+			"Haplofibrists",
+			"Cryofibrists",
+			"Sulfisaprists",
+			"Sulfihemists",
+			"Sphagnofibrists",
+			"Medihemists",
+			"Ustifolists",
+			"Cryosaprists",
+			"Frasiwassists",
+			"Sulfiwassists",
+			"Medifibrists",
+			"Torrifolists",
+			"Borohemists",
+			"Haplustepts",
+			"Dystrudepts",
+			"Dystrocryepts",
+			"Durixerepts",
+			"Dystrogelepts",
+			"Calcicryepts",
+			"Haploxerepts",
+			"Endoaquepts",
+			"Dystrustepts",
+			"Dystroxerepts",
+			"Fragiudepts",
+			"Haplocryepts",
+			"Humaquepts",
+			"Humicryepts",
+			"Calcixerepts",
+			"Halaquepts",
+			"Dystrochrepts",
+			"Calciustepts",
+			"Cryaquepts",
+			"Humudepts",
+			"Humixerepts",
+			"Eutrudepts",
+			"Epiaquepts",
+			"Cryochrepts",
+			"Humustepts",
+			"Fragiochrepts",
+			"Fragiaquepts",
+			"Eutrogelepts",
+			"Petraquepts",
+			"Fragixerepts",
+			"Eutrochrepts",
+			"Durustepts",
+			"Humigelepts",
+			"Haplaquepts",
+			"Haplumbrepts",
+			"Gelaquepts",
+			"Calcixerolls",
+			"Calciustolls",
+			"Argiustolls",
+			"Haploxerolls",
+			"Endoaquolls",
+			"Palexerolls",
+			"Argixerolls",
+			"Epiaquolls",
+			"Haplustolls",
+			"Duraquolls",
+			"Argiudolls",
+			"Argiaquolls",
+			"Hapludolls",
+			"Palecryolls",
+			"Natrixerolls",
+			"Durixerolls",
+			"Calciaquolls",
+			"Duricryolls",
+			"Cryaquolls",
+			"Argialbolls",
+			"Calciudolls",
+			"Haplaquolls",
+			"Haprendolls",
+			"Paleudolls",
+			"Haplocryolls",
+			"Paleustolls",
+			"Natrustolls",
+			"Argicryolls",
+			"Argiborolls",
+			"Cryrendolls",
+			"Natriborolls",
+			"Haploborolls",
+			"Natraquolls",
+			"Calcicryolls",
+			"Natrudolls",
+			"Natricryolls",
+			"Kandiperox",
+			"Hapludox",
+			"Haploperox",
+			"Eutrustox",
+			"Eutrotorrox",
+			"Kandiudox",
+			"Acroperox",
+			"Acrudox",
+			"Haplotorrox",
+			"Eutroperox",
+			"Haplorthods",
+			"Endoaquods",
+			"Haplocryods",
+			"Epiaquods",
+			"Humicryods",
+			"Alaquods",
+			"Duraquods",
+			"Fragiorthods",
+			"Durorthods",
+			"Fragiaquods",
+			"Duricryods",
+			"Alorthods",
+			"Cryaquods",
+			"Sideraquods",
+			"Haplogelods",
+			"Placorthods",
+			"Haplohumods",
+			"Cryorthods",
+			"Albaquults",
+			"Haplohumults",
+			"Paleudults",
+			"Palexerults",
+			"Hapludults",
+			"Endoaquults",
+			"Fragiaquults",
+			"Fragiudults",
+			"Kanhapludults",
+			"Haplustults",
+			"Palehumults",
+			"Paleaquults",
+			"Kandiudults",
+			"Umbraquults",
+			"Haploxerults",
+			"Rhodudults",
+			"Kandihumults",
+			"Epiaquults",
+			"Kanhaplohumults",
+			"Ochraquults",
+			"Natraquerts",
+			"Haploxererts",
+			"Epiaquerts",
+			"Haplusterts",
+			"Hapluderts",
+			"Haplotorrerts",
+			"Gypsitorrerts",
+			"Calciaquerts",
+			"Humicryerts",
+			"Endoaquerts",
+			"Haplocryerts",
+			"Calcixererts",
+			"Calcitorrerts",
+			"Calciusterts"
+		]
+	},
+	{
+		"value":"Udertic",
+		"greatgroup": [
+			"Paleustalfs",
+			"Haplustalfs",
+			"Haplustepts",
+			"Paleustolls",
+			"Argiustolls",
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Udic",
+		"greatgroup": [
+			"Haplustalfs",
+			"Paleustalfs",
+			"Rhodustalfs",
+			"Ustorthents",
+			"Ustifluvents",
+			"Haplustepts",
+			"Calciustepts",
+			"Paleustolls",
+			"Haplustolls",
+			"Argiustolls",
+			"Haploborolls",
+			"Calciustolls",
+			"Argiborolls",
+			"Haplusterts",
+			"Haploxererts",
+			"Calciusterts"
+		]
+	},
+	{
+		"value":"Udifluventic",
+		"greatgroup": [
+			"Haplustepts"
+		]
+	},
+	{
+		"value":"Udollic",
+		"greatgroup": [
+			"Endoaqualfs",
+			"Epiaqualfs",
+			"Ochraqualfs"
+		]
+	},
+	{
+		"value":"Udorthentic",
+		"greatgroup": [
+			"Haplustolls"
+		]
+	},
+	{
+		"value":"Ultic",
+		"greatgroup": [
+			"Haploxeralfs",
+			"Hapludalfs",
+			"Palexeralfs",
+			"Paleustalfs",
+			"Haplustalfs",
+			"Haploxerands",
+			"Udivitrands",
+			"Vitricryands",
+			"Udarents",
+			"Haploxerolls",
+			"Argixerolls",
+			"Palexerolls",
+			"Haplorthods",
+			"Alaquods",
+			"Epiaquods",
+			"Fragiorthods"
+		]
+	},
+	{
+		"value":"Umbric",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Endoaqualfs",
+			"Palecryalfs",
+			"Epiaqualfs",
+			"Ochraqualfs",
+			"Endoaquods",
+			"Epiaquods",
+			"Paleaquults",
+			"Fragiaquults"
+		]
+	},
+	{
+		"value":"Umbric Xeric",
+		"greatgroup": [
+			"Haplocryalfs"
+		]
+	},
+	{
+		"value":"Ustalfic",
+		"greatgroup": [
+			"Petrocalcids"
+		]
+	},
+	{
+		"value":"Ustertic",
+		"greatgroup": [
+			"Natrargids",
+			"Haplargids",
+			"Haplocambids",
+			"Calciargids",
+			"Torriorthents",
+			"Torrifluvents"
+		]
+	},
+	{
+		"value":"Ustic",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Palecryalfs",
+			"Glossocryalfs",
+			"Haplocalcids",
+			"Natrargids",
+			"Paleargids",
+			"Haplocambids",
+			"Haplargids",
+			"Calciargids",
+			"Calcigypsids",
+			"Haplodurids",
+			"Aquicambids",
+			"Petrocalcids",
+			"Argigypsids",
+			"Haplogypsids",
+			"Argicryids",
+			"Petroargids",
+			"Natrigypsids",
+			"Argidurids",
+			"Petrogypsids",
+			"Petrocambids",
+			"Gypsiargids",
+			"Torriorthents",
+			"Torripsamments",
+			"Quartzipsamments",
+			"Torrifluvents",
+			"Calcicryepts",
+			"Haplocryepts",
+			"Dystrocryepts",
+			"Argicryolls",
+			"Haplocryolls",
+			"Calcicryolls",
+			"Palecryolls",
+			"Palehumults",
+			"Haplohumults",
+			"Kanhaplohumults",
+			"Epiaquerts"
+		]
+	},
+	{
+		"value":"Ustifluventic",
+		"greatgroup": [
+			"Haplocambids"
+		]
+	},
+	{
+		"value":"Ustivitrandic",
+		"greatgroup": [
+			"Haplocryepts"
+		]
+	},
+	{
+		"value":"Ustollic",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Glossocryalfs",
+			"Haplargids",
+			"Camborthids",
+			"Calciorthids"
+		]
+	},
+	{
+		"value":"Vermic",
+		"greatgroup": [
+			"Fragiaqualfs",
+			"Natraqualfs"
+		]
+	},
+	{
+		"value":"Vertic",
+		"greatgroup": [
+			"Paleudalfs",
+			"Albaqualfs",
+			"Rhodoxeralfs",
+			"Haploxeralfs",
+			"Hapludalfs",
+			"Haplustalfs",
+			"Paleustalfs",
+			"Glossocryalfs",
+			"Haplocryalfs",
+			"Epiaqualfs",
+			"Endoaqualfs",
+			"Natrustalfs",
+			"Natraqualfs",
+			"Palexeralfs",
+			"Natrudalfs",
+			"Glossudalfs",
+			"Natrargids",
+			"Argigypsids",
+			"Paleargids",
+			"Argicryids",
+			"Argidurids",
+			"Haplocalcids",
+			"Haplargids",
+			"Haplocambids",
+			"Calciargids",
+			"Natrigypsids",
+			"Fluvaquents",
+			"Torriorthents",
+			"Torrifluvents",
+			"Xerofluvents",
+			"Ustifluvents",
+			"Ustorthents",
+			"Endoaquepts",
+			"Haploxerepts",
+			"Haplustepts",
+			"Eutrudepts",
+			"Dystrudepts",
+			"Epiaquepts",
+			"Calciustepts",
+			"Halaquepts",
+			"Calcixerepts",
+			"Argixerolls",
+			"Endoaquolls",
+			"Haplustolls",
+			"Argiudolls",
+			"Argiaquolls",
+			"Argicryolls",
+			"Argialbolls",
+			"Argiustolls",
+			"Palexerolls",
+			"Paleudolls",
+			"Haploxerolls",
+			"Paleustolls",
+			"Calciustolls",
+			"Epiaquolls",
+			"Natrustolls",
+			"Hapludolls",
+			"Natraquolls",
+			"Cryaquolls",
+			"Haplocryolls",
+			"Durixerolls",
+			"Calcixerolls",
+			"Natrixerolls",
+			"Hapludults",
+			"Paleudults",
+			"Epiaquults"
+		]
+	},
+	{
+		"value":"Vitrandic",
+		"greatgroup": [
+			"Haploxeralfs",
+			"Haplustalfs",
+			"Glossudalfs",
+			"Palexeralfs",
+			"Hapludalfs",
+			"Fragixeralfs",
+			"Haplocryalfs",
+			"Palecryalfs",
+			"Fragiudalfs",
+			"Fraglossudalfs",
+			"Glossoboralfs",
+			"Glossocryalfs",
+			"Haplocambids",
+			"Haplocalcids",
+			"Aquicambids",
+			"Haplargids",
+			"Haplodurids",
+			"Torriorthents",
+			"Xerorthents",
+			"Ustorthents",
+			"Torripsamments",
+			"Cryorthents",
+			"Cryopsamments",
+			"Xeropsamments",
+			"Udorthents",
+			"Xerofluvents",
+			"Udifluvents",
+			"Torrifluvents",
+			"Cryofluvents",
+			"Eutrudepts",
+			"Haplocryepts",
+			"Dystroxerepts",
+			"Haploxerepts",
+			"Dystrocryepts",
+			"Haplustepts",
+			"Humixerepts",
+			"Dystrochrepts",
+			"Humudepts",
+			"Dystrudepts",
+			"Humicryepts",
+			"Eutrochrepts",
+			"Haploxerolls",
+			"Argixerolls",
+			"Haplustolls",
+			"Haplocryolls",
+			"Argicryolls",
+			"Palexerolls",
+			"Durixerolls",
+			"Hapludolls",
+			"Argiustolls",
+			"Calcicryolls",
+			"Calcixerolls"
+		]
+	},
+	{
+		"value":"Vitric",
+		"greatgroup": [
+			"Hapludands",
+			"Fulvicryands",
+			"Haplocryands"
+		]
+	},
+	{
+		"value":"Vitritorrandic",
+		"greatgroup": [
+			"Ustorthents",
+			"Durixerolls",
+			"Argixerolls",
+			"Haplustolls",
+			"Haploxerolls",
+			"Argiustolls"
+		]
+	},
+	{
+		"value":"Vitrixerandic",
+		"greatgroup": [
+			"Haplargids",
+			"Haplocambids",
+			"Argidurids",
+			"Haplodurids",
+			"Natridurids",
+			"Natrargids",
+			"Haplocalcids",
+			"Aquicambids",
+			"Humicryepts",
+			"Haplocryepts",
+			"Dystrocryepts"
+		]
+	},
+	{
+		"value":"Xanthic",
+		"greatgroup": [
+			"Hapludox"
+		]
+	},
+	{
+		"value":"Xeralfic",
+		"greatgroup": [
+			"Haplargids"
+		]
+	},
+	{
+		"value":"Xereptic",
+		"greatgroup": [
+			"Haplodurids",
+			"Petrocryids"
+		]
+	},
+	{
+		"value":"Xerertic",
+		"greatgroup": [
+			"Haplocambids",
+			"Haplargids",
+			"Natrargids",
+			"Calciargids",
+			"Torriorthents",
+			"Argialbolls"
+		]
+	},
+	{
+		"value":"Xeric",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Glossocryalfs",
+			"Palecryalfs",
+			"Vitricryands",
+			"Haplocryands",
+			"Haplargids",
+			"Calciargids",
+			"Argidurids",
+			"Haplocalcids",
+			"Petrocalcids",
+			"Haplocambids",
+			"Natrargids",
+			"Calcicryids",
+			"Haplodurids",
+			"Haplogypsids",
+			"Paleargids",
+			"Natridurids",
+			"Petroargids",
+			"Calcigypsids",
+			"Aquicambids",
+			"Petrocambids",
+			"Argigypsids",
+			"Torriorthents",
+			"Torrifluvents",
+			"Torripsamments",
+			"Calcicryepts",
+			"Humicryepts",
+			"Dystrocryepts",
+			"Haplocryepts",
+			"Haplocryolls",
+			"Argicryolls",
+			"Argialbolls",
+			"Calcicryolls",
+			"Palecryolls",
+			"Haplohumults",
+			"Palehumults",
+			"Kanhaplohumults",
+			"Duraquerts",
+			"Endoaquerts",
+			"Epiaquerts"
+		]
+	},
+	{
+		"value":"Xerofluventic",
+		"greatgroup": [
+			"Haplocambids"
+		]
+	},
+	{
+		"value":"Xerollic",
+		"greatgroup": [
+			"Haplocryalfs",
+			"Durorthids",
+			"Natrargids",
+			"Haplargids",
+			"Camborthids",
+			"Calciorthids"
+		]
+	}
+]
