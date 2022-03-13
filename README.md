@@ -13,6 +13,9 @@ Three different NLP techniques are explored:
 
 Note that the full-text version of the publications is needed to run the NLP notebooks. For copyrights reasons, these are not provided in this repository.
 
+In addition another notebook proposes to walk you through the use of regular expression:
+- [notebooks/nlp-workshop.iypnb](notebooks/nlp-workshop.ipynb): you can run it online on mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/climasoma/nlp/HEAD?labpath=notebooks%2Fnlp-workshop.ipynb)
+
 ## Citation
 Refer to this citation if you make use of the database:
 ```
