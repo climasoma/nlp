@@ -1,5 +1,8 @@
 # Potential of natural language processing for metadata extraction from environmental scientific publications
 
+[![DOI](https://zenodo.org/badge/452244190.svg)](https://zenodo.org/badge/latestdoi/452244190)
+
+
 This repository is part of the [EJP SOIL CLIMASOMA project](https://ejpsoil.eu/soil-research/climasoma/).
 
 This work aims to explore the potential of natural language processing (NLP) for metadata extraction from scientific publications. In this repository two corpus (set of documents) can be found:
